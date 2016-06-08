@@ -1,0 +1,61 @@
+@media (max-width: 849px) {
+    #revolutionul .caption {
+        width:80%;
+        text-align: center;
+        padding-left: 10%;
+        padding-right:10%;
+        box-sizing: content-box;
+    }
+    #revolutionul .slide_title {
+        white-space:normal;
+        /* font-size: 25px; */
+    }
+    #revolutionul .slide_subtitle {
+        white-space:normal;
+        /* font-size: 20px; */
+    }
+    #revolutionul .slide_desc {
+        white-space:normal;
+        /* font-size: 15px; */
+    }
+    /* #revolutionul .revo-slider-xs-start~.caption,
+    #revolutionul .revo-slider-xs-start    {
+        width:80%;
+        height: 50px;
+        text-align: center;
+        vertical-align: center;
+        margin-top: 15px;
+        padding-left: 10%;
+        padding-right:10%;
+        font-size: 40px;
+    } */
+    #revolutionul .caption input {
+        width: 100%;
+        height: 50px;
+    }
+    /*
+        padding-left:10%;
+        padding-right:10%;
+    */
+    
+    .toCity, .fromCity {
+        width: 100%;
+        /* height: 50px !important; */
+    }
+    .select2-choice {
+        /* height: 50px !important; */
+    }
+}
+/* #revolutionul .caption {
+    width:100% !important;
+    padding-left:10%;
+    padding-right:10%;
+} */
+@media (min-width: 850px) {
+    .toCity, .fromCity {
+        width: 196px;
+    }
+    #length, #width, #height {
+        width: 50px;
+    }
+}

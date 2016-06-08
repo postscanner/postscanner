@@ -1,0 +1,1645 @@
+
+
+
+
+
+<!-- SearchBodyStart -->
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  
+  function ctcUpsSession(locale,ravecode,classify,pldcode,satDelivery)
+  {
+	  
+	  ctcJavaScript.webTaggingTntShipClicked();
+      setTimeout(function(){	        
+	    	document.formtimecost.action="/ctc/upssession?callFrom=timeCost&loc="+locale+"&rave="+ravecode+"&classi="+classify+"&pld="+pldcode+"&sat="+satDelivery;	        
+	    	formtimecost.submit();
+
+	},500); //redirect after 500 ms
+
+	
+	
+  }
+  
+  function ctcUpsSessionIF(locale)
+  {
+	document.formtimecost.action="/ctc/upssession?callFrom=time&loc="+locale+"&internationalforms=yes";
+	formtimecost.submit();
+  }
+  
+  function modifyShipment()
+  {
+	//document.formtimecost.action="/ctc/request?modify=yes";
+	document.formtimecost.action="/ctc/request?modify=yes&shipWeightUnit=KGS";
+	formtimecost.submit();
+  }
+
+
+  $(document).ready(    	
+	function()
+	{	    
+		
+		//From ctc service object, get package list size
+		var total_pkg_count = 1;		
+		
+		//Call initDetail and pass package list count. initDetail will hide the package detail rows > 3
+		javascript:ctcJavaScript.initDetail(total_pkg_count); 
+		
+		 
+		var promotionMSGIndicator = false;
+		javascript:ctcJavaScript.validatePromotionMessage(promotionMSGIndicator, noFragmentIndicator);
+	}   
+  );  
+  
+  
+
+</script>
+
+
+
+  
+  <form name="formtimecost" action="/ctc/summaryTimeCost" method="post">
+  
+  <INPUT TYPE="HIDDEN" id="onlyUPSStandard" NAME="onlyUPSStandard" VALUE="false">
+  
+  
+  
+  
+  
+  <input type="hidden" name="modValueAdded" value="null">
+  	
+	<input type="hidden" name="modPickupAdded" value="">
+	
+	<input type="hidden" name="showImport" value="false"/>
+	<input type="hidden" name="importFlag" value="false"/>
+	<input type="hidden" name="rtsFlag" value="false"/>
+	<input type="hidden" name="assume" value="false"/>
+	<input type="hidden" name="selectedImport" value="false"/>
+	<input type="hidden" name="selectedReturn" value="false"/>
+	<input type="hidden" name="selectedAccessorials" value=""/>
+<input type="hidden" name="promoDiscountEligible" value="NO"/>
+<input type="hidden" name="billableWeightIndicator" value=""/>
+<input type="hidden" name="customerClassificationCode" value=""/>
+<input type="hidden" name="abrEligible" value="no"/>
+<input type="hidden" name="rateType" value="4">
+	
+  <input type="hidden" name="modCustomValue" value="1">
+  <input type="hidden" name="modWeight" value="1">
+  <input type="hidden" name="modDimUnit" value="CM">
+  <input type="hidden" name="modWeightUnit" value="KGS">
+  <input type="hidden" name="page" value="shipping/wwdt/tnc(4sum).html">
+  <input type="hidden" name="currency" value="RUB"/>
+  <input type="hidden" name="RC" value="
+
+Valid Rater Codes: EXS,
+Invalid Rater Codes: 
+">
+  <input type="hidden" name="selected_account" value="" id="accountNumber_id">  
+	  
+<INPUT TYPE="HIDDEN" NAME="weightType" VALUE="KGS">
+<INPUT TYPE="HIDDEN" NAME="quoteTypeVar" VALUE="estimateTimeCost.x">
+<INPUT TYPE="HIDDEN" NAME="_packages" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="newUI" VALUE="true">
+<INPUT TYPE="HIDDEN" NAME="letterOrPackage" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="accSelectedCountry" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="_width1" VALUE="2">
+<INPUT TYPE="HIDDEN" NAME="accType" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="_length1" VALUE="2">
+<INPUT TYPE="HIDDEN" NAME="promoDiscountEligible " VALUE="NO">
+<INPUT TYPE="HIDDEN" NAME="destCtyCurrency" VALUE="NA">
+<INPUT TYPE="HIDDEN" NAME="_pickup" VALUE="NO">
+<INPUT TYPE="HIDDEN" NAME="origCity" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="lanCancelURL" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="loc" VALUE="en_US">
+<INPUT TYPE="HIDDEN" NAME="selectedAccountNumber" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="_PickupMethod1" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="wwdtRes" VALUE="com.ups.wwdt.process.WWDTResponse@1b4c0112">
+<INPUT TYPE="HIDDEN" NAME="userId" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="WWEFMT" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="IR" VALUE="Export rated">
+<INPUT TYPE="HIDDEN" NAME="EMMS RAW DATA" VALUE="00060000          14   RU                                                  MOSCOW                                            MOSCOW                                            101000    RU                                                  TULA                                              TULSKAYA                                          300000    +0000010KGS+00000000100RUB0302020141118112916       00                                                   03000024ALP00A0200000000000000000        000000000000            00         000        0000000000        000        00000079 DESTINATION IS OUT OF TERRITORY                                               2600000000000010000100000002014111923300015000020141118173000WED      000        00000000002014111900120141120000000000500000000000050000601000002014112423300015000020141118173000MON      000        0000000000201411240012014112500000000 ">
+<INPUT TYPE="HIDDEN" NAME="origState" VALUE="MOSCOW">
+<INPUT TYPE="HIDDEN" NAME="abrEligible" VALUE="no">
+<INPUT TYPE="HIDDEN" NAME="promoDiscountEligible" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="destCountry" VALUE="RU">
+<INPUT TYPE="HIDDEN" NAME="destState" VALUE="TULSKAYA">
+<INPUT TYPE="HIDDEN" NAME="_container" VALUE="02">
+<INPUT TYPE="HIDDEN" NAME="Rave_Code_0" VALUE="EXS">
+<INPUT TYPE="HIDDEN" NAME="pickupMethod1" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="shipWeightUnit" VALUE="KGS">
+<INPUT TYPE="HIDDEN" NAME="total_services" VALUE="2">
+<INPUT TYPE="HIDDEN" NAME="selectedAccountClassification" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="ABRDISCOUTNAPPLIED" VALUE="false">
+<INPUT TYPE="HIDDEN" NAME="isSelectedAccountABREnabled" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="customerClassificationCode" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="sameValue" VALUE="YES">
+<INPUT TYPE="HIDDEN" NAME="session_pkg_row_1" VALUE="CTCPkgDetailBean__1__1__KGS__0.00001____2__2__2__CM">
+<INPUT TYPE="HIDDEN" NAME="shipDate" VALUE="2014-11-18">
+<INPUT TYPE="HIDDEN" NAME="billableWeightIndicator" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="total_pkg_num" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="origCurrency" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="ctcModLoginStatus" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="WWEFIT" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="origCountry" VALUE="RU">
+<INPUT TYPE="HIDDEN" NAME="RATINGTYPE" VALUE="4">
+<INPUT TYPE="HIDDEN" NAME="returnURL" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="rSrv" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="PROMODISCOUNTAPPLIED" VALUE="false">
+<INPUT TYPE="HIDDEN" NAME="itsQuickQuote" VALUE="no">
+<INPUT TYPE="HIDDEN" NAME="metricUnit" VALUE="CM">
+<INPUT TYPE="HIDDEN" NAME="weight" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="totalweight" VALUE="1">
+<INPUT TYPE="HIDDEN" NAME="declaredValue" VALUE="0.00001">
+<INPUT TYPE="HIDDEN" NAME="weightUnit" VALUE="KGS">
+<INPUT TYPE="HIDDEN" NAME="currency" VALUE="RUB">
+<INPUT TYPE="HIDDEN" NAME="isAccountSelected" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="requestor" VALUE="ctcmodule">
+<INPUT TYPE="HIDDEN" NAME="destCity" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="earlyPickDate" VALUE="2014-11-18">
+<INPUT TYPE="HIDDEN" NAME="session_service_row_1" VALUE="TnTService__05__false__2014-11-24__23:30:00__5__15:00:00__2014-11-18__17:30:00__F__2014-11-18__UPS Worldwide Expedited__F__ ">
+<INPUT TYPE="HIDDEN" NAME="A_State" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="_height1" VALUE="2">
+<INPUT TYPE="HIDDEN" NAME="session_service_row_0" VALUE="TnTService__26__false__2014-11-19__23:30:00__1__15:00:00__2014-11-18__17:30:00__F__2014-11-18__UPS Express Saver__F__ ">
+<INPUT TYPE="HIDDEN" NAME="uis" VALUE="true">
+<INPUT TYPE="HIDDEN" NAME="origPostal" VALUE="101000">
+<INPUT TYPE="HIDDEN" NAME="isSelectedAccountGBPalletEnabled" VALUE="null">
+<INPUT TYPE="HIDDEN" NAME="destPostal" VALUE="300000">
+<INPUT TYPE="HIDDEN" NAME="accNumIn" VALUE="">
+
+
+
+
+
+
+<!-- Begin Second Column -->
+<!-- <div class="seccol16 marginBegin floatEnd clearfix"> -->
+                    
+     <!-- Begin Section Module -->
+     <div class="secLvl step tableonly clearfix">
+     <fieldset>
+                        
+          <!-- Begin Section Header -->
+          <div class="secHead clearfix">                                
+          <h3>
+          
+	        <span class="sel">Showing Results For:</span><br>
+	               
+          
+          101000, RUSSIA
+          <span class="sel">to</span>
+          
+          
+	      
+	          300000, RUSSIA
+	      
+
+ 
+
+
+          
+
+          
+
+			
+          
+              
+                
+                  
+                  &nbsp;&nbsp;<input name="FindLocationAction" type=button class="btnlnkR newWindowIconR" value="Find Locations" 
+                  onClick="javascript:ctcJavaScript.ctcSubmitLocationFinder('https://www.ups.com/dropoff?loc=en_US&appid=CTC&country=RU&autosubmit=1&PoliticalDiv2=&PoliticalDiv1=MOSCOW&Postal=101000');" >
+               
+             
+          
+
+          
+          	 
+          
+          
+          
+                    
+ 
+ 
+            
+          </h3>
+          <ul>
+          <li><a href="javascript:window.print()" class="btnlnkR printIconR">Print</a></li>
+          </ul>
+          
+          
+  <input type="hidden" name="accountNumberAuthorize" value="" id="accountNumberAuthorizeId">
+
+   
+  
+ 
+          
+          </div> 
+          <!-- End Section Header -->
+                        
+          <!-- Begin Section Body -->
+          <div class="secBody" > 
+                            
+               <!-- Begin Results Table -->                                    
+               <div dir="ltr" class="clearfix">
+                    <table class="dataTable noTableHeader full">
+                        <thead>
+                        <tr>
+                        <th class="colHead">Service</th>
+                        
+                        
+                               <th id="downTime" class="colHead"><a href="javascript:ctcJavaScript.changeTimeResultTableOrder('mostTime','noUpdate')">Time
+                                <img id="downTimeImg" src="/img/icn_sort_down.gif" alt=""  width="10" height="10" border="0">
+                               </a></th>
+                               <th id="upTime" style="display:none" class="colHead"><a href="javascript:ctcJavaScript.changeTimeResultTableOrder('leastTime','noUpdate')">Time
+                                <img id="upTimeImg" src="/img/icn_sort_up.gif" alt=""  width="10" height="10" border="0">
+                               </a></th>
+
+                               <th id="downCost" class="colHead"><a href="javascript:ctcJavaScript.changeCostResultTableOrder('mostTime','noUpdate')">Cost
+                               <img style="display:none" id="downCostImg" src="/img/icn_sort_down.gif" alt=""  width="10" height="10" border="0">
+                               </a><br>(All Packages)
+                               </th>
+                               <th id="upCost" style="display:none" class="colHead"><a href="javascript:ctcJavaScript.changeCostResultTableOrder('leastTime','noUpdate')">Cost
+                               <img id="upCostImg" src="/img/icn_sort_up.gif" alt=""  width="10" height="10" border="0">
+                               </a><br>(All Packages)
+                               </th>
+                        
+
+                        
+                        
+                        
+                        </tr> 
+                        </thead>
+                        
+                        
+                         
+                        
+                       
+
+
+
+
+
+
+
+ 
+ 
+                                    
+  
+  
+                        
+                       
+
+                        
+                        <!-- Begin Row -->
+                        <tr class="odd" id="servicerow0">
+                            <!-- Begin Service Column Information -->
+                            <td>                                                        
+                            <dl>
+                             
+                            <dt>
+                            <span class="label">
+                            
+                            
+                              UPS Express Saver
+                            
+                            </span>
+                            </dt>
+
+                            <dd>
+                          
+                            
+                            
+                            
+                            	<span class="label">Latest Pickup Time:</span>
+                            
+                            <br>
+                            <strong>5:30&nbsp;P.M.&nbsp;Tuesday</strong>
+                            <br>
+                            November&nbsp;18,&nbsp;2014&nbsp;<br>
+                            </dd>
+
+							
+	                            <dd>
+	                            							
+	                            	<span class="label">Schedule by
+	                            
+	                            :</span>
+	                            <br>
+	                            
+	                            	3:00&nbsp;P.M.
+	                            
+	                            </dd>
+							
+                            </dl>
+                            </td>
+                            <!-- End Service Column Information -->
+                        
+                            <!-- Begin Time Column Information -->
+                            <td>
+                            <dl>
+                            
+                            <dt>
+                            <!-- Days in Transit not shown for International -->
+                            </dt>
+                            
+                            <dd>
+                            <!--  RFC 7048: added logic tag for conditional display of help link for Estimated Delivery-->
+                            
+                            
+                            	<span class="label">Delivered By:</span>
+                            
+                            <br>
+                            <strong>By End of Day&nbsp;Wednesday</strong>
+                            <br>
+                              November&nbsp;19,&nbsp;2014&nbsp;
+                            <br>
+                             <!--  RFC 7048 -->
+                            
+                            	
+                            
+                            </dd>
+                        
+                            </dl>
+                            </td>
+                            <!-- End Time Column Information -->
+                            
+                            <!-- Begin Cost Column Information -->
+                            <td>
+                           
+                            <dl>
+                            
+                            
+                            
+                            
+                            
+                            <dt>
+                                                          
+                               <strong>1,161.50</strong>&nbsp;
+                               
+                               
+                               
+						
+                               
+                      	 
+                        
+                         
+                        RUB  
+                        
+                               
+                               
+                               <sup>*</sup>
+                                  
+                            </dt>
+                            <!-- 7411: Display or HIde Billable Weight based on 7411 rules -->
+                            
+                  	        
+                  	           <dt>
+                                 <strong>Billable Weight:</strong>
+                               </dt>
+                               <dd>
+                                 1.0&nbsp;kgs.
+                               </dd>
+							
+							
+							
+						                            
+                            
+                              
+                                  <dd>                                  
+                                  <input name="0.y" value="View Details" type="button" class="btnlnkL viewmini" border="0" onClick="javascript:ctcJavaScript.displayStaticDialog('1','EXS');return false;" >
+                              
+                                  </dd>                                
+                             
+                           
+                         
+                          
+                             
+                            
+                            
+						         
+                                    <dt><input type="button" id="ratesShipNowInt" class="button btnGroup6 arrowIconRight" value="Ship Now" 
+                                    onClick="javascript:ctcUpsSession('en_US','EXS','','065','');"></dt>
+                                 
+					        
+                            
+							                               
+
+                            
+                            
+                            </dl>
+                            </td>
+                            <!--  End Cost Column Information -->
+                        </tr>
+                        <!-- End Row -->
+                        
+
+  	
+    
+                <tr style="display:none" >
+                   <td colspan="3">
+                     
+
+
+
+
+
+
+
+
+ 
+                                    
+                        
+                        
+                                    
+                                            
+                    
+                 
+
+
+          
+<div id="detailresults1" style="display:none">          
+          
+  <div class="appHead clearfix">
+
+	   <h2 class="nostep">   
+		   
+			        Rates By Service
+			
+				  
+	   </h2>	  
+	      
+	   <ul>
+		  <li><input type="button" class="btnlnkL closeIcon" title="Close" id="modalClose" onClick="javascript:ctcJavaScript.closeDialog();"></li>
+	   </ul>
+
+  </div>
+            
+            
+  <div class="appBody">
+	
+<!-- Begin Section Module -->
+     <div class="secLvl clearfix">
+     
+     <fieldset>
+     <legend>repl_legend</legend>
+							
+							
+     <!-- Begin Section Header -->
+	 <div class="secHead clearfix">
+	
+		 <h3>
+               Service Details
+		 </h3>
+		 <ul class="clearfix">
+			   <li><a class="btnlnkR printIconR" href="javascript:window.print()">Print</a></li>
+		 </ul>	
+		 
+	 </div>
+	 <!--  end service div -->
+	  
+							
+     <!-- Begin Section Body -->
+	 <div class="secBody"> 
+	 <p>
+			 
+			
+			 
+			       UPS Express Saver
+			 
+			 &nbsp;-&nbsp;zone&nbsp;2
+	 
+	 </p>
+
+     <dl class="outHozFlex clearfix">	
+		 <dt>
+		 
+			
+			
+		 	      
+                
+                	<span class="label">
+                      Delivered By:
+                    </span>
+                
+             
+		 </dt>
+		 <dd>
+		     By End of Day
+		 </dd>
+		
+		 <dt>
+		     Wednesday
+		     November&nbsp;19,&nbsp;2014&nbsp;
+		 </dt>
+	 
+	 </dl>
+	
+	
+     <div class="clear"></div>
+                                
+     <div class="tableonly">	
+	
+	 
+	 
+	
+	
+  	  
+	 
+	 
+	 
+	
+	
+     <div class="clear"></div>
+                                
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0" class="dataTable valignTop detailTable">
+	
+	        <tbody>
+	  
+	 
+	
+	
+	 
+	 
+	                <tr>
+	 <th>&nbsp;</th>
+	 
+	 <th class="marginEnd" width="10%">
+	     Rates
+	 </th>
+	 <th colspan="2">&nbsp;</th>
+	                </tr>
+	
+	 
+	
+	
+	                <tr class="odd">
+	                  <td>
+	                     UPS Express Saver<br>
+	                  </td>
+	
+	 
+	 
+	
+	
+	
+	 
+	   
+	                  <td nowrap class="marginEnd">
+	                  1,010.00&nbsp;RUB
+	                </td>
+	                <td class="marginEnd">&nbsp;</td>
+	
+	                <td class="marginEnd">&nbsp;</td>
+	  
+	  	
+	
+       	
+		  
+	 
+	
+
+
+</tr>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
+	  <tr class="odd">
+	
+	 
+	
+	
+	
+		    <td nowrap class="odd">
+		
+					 
+					
+					 
+					
+					      Declared Value
+					
+					 
+					
+					 
+					
+					 
+					
+					 
+					
+					 
+		    </td>
+	
+	
+	 	
+	
+	
+		 
+		    <td nowrap class="marginEnd">
+		        Free
+		        
+		    </td>
+		 
+		 
+		      <td class="marginEnd">
+		           &nbsp;
+		      </td>
+		      	      <td class="marginEnd">
+		           &nbsp;
+		      </td>
+	
+	 
+	
+	  </tr>
+	
+	 
+	
+	
+	 
+	
+	  <tr class="">
+	
+	 
+	
+	
+	
+		    <td nowrap class="">
+		
+					 
+					
+					 
+					
+					      Fuel Surcharge
+					
+					 
+					
+					 
+					
+					 
+					
+					 
+					
+					 
+		    </td>
+	
+	
+	 	
+	
+	
+		 
+		    <td nowrap class="marginEnd">
+		        151.50
+		        &nbsp;
+		        			        
+		        		RUB
+		        	
+		        	
+		        	
+		        
+		    </td>
+		 
+		 
+		      <td class="marginEnd">
+		           &nbsp;
+		      </td>
+		      	      <td class="marginEnd">
+		           &nbsp;
+		      </td>
+	
+	 
+	
+	  </tr>
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	                        <tr class="topBorder">
+	                          <td colspan="3" nowrap>
+	                             <strong>Shipment Total:</strong>
+	                          </td>
+	                          <td class="ship_total">
+				   		        
+	                              <strong>1,161.50&nbsp;
+ 
+		RUB
+
+
+	                              
+	                              
+	                              
+	                              </strong>				                
+				                
+	
+				                                           
+	                          </td>
+	                          
+	                		</tr>
+	       
+	                 		        		
+                			                		
+	                  
+	                                               
+	                       
+	
+	
+
+                   	</tbody>
+	
+	              </table>
+	              
+	         </div>
+
+        </div>
+		<!-- End Section Body -->
+							        
+        <!-- Begin Section Footer -->
+		<div class="secFooter">
+		
+	        	
+	           		
+			      
+											   
+			<!-- Begin Button Bar Row -->
+			<div class="btnBar"> 
+                <input name="shipAction" value="Ship Now" type="button" class="btnArw" onClick="javascript:ctcUpsSession('en_US','EXS','','065',' ');">				
+            </div>
+			<!-- End Button Bar Row -->
+			
+			      	
+			   
+			
+			
+	
+	
+	 
+	 	
+	   
+	
+				
+							
+		</div>
+		<!-- End Section Footer -->
+		</fieldset>        
+        
+            </fieldset>
+	
+		</div>
+		
+    <div class="clearfix">
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<p class="reqTxtInst">
+	Rates may vary at retail locations.
+	
+	
+	
+	Result estimates calculated by UPS:&nbsp; Tuesday,&nbsp;November&nbsp;18,&nbsp;2014&nbsp;11:29&nbsp;A.M. Eastern Time (USA)<br>
+	
+    </div>
+				
+   </div>
+
+
+	
+
+   <div class="appFooter">
+				<div class="btnBar alignCenter">
+					<input type="button" class="btn" value="Close" name="close_button" onClick="javascript:ctcJavaScript.closeDialog();">
+				</div>
+   </div>
+      
+
+</div>
+
+
+          
+          
+     
+      
+         
+         
+         
+          
+          
+
+                   </td>
+                </tr>
+                
+   
+                           
+                       
+                             
+                              
+     
+                			
+                				
+                			 
+                        
+   					
+                                        
+                        
+                        <!--  ** Messages To The User Row ** -->
+                        <tr class="odd">
+                            <td colspan="3">
+                            <!--                 
+                            <div id="repl_id">
+                                <p><span class="">ups ground</span></p>
+                                <p>ups letters are not valid for ups ground service; please change package type for ground rates.</p>
+                            </div>
+                                                
+                            <div id="repl_id">
+                                <p><strong>[no matching services found message here; next step for user.]</strong></p>
+                            </div>
+                                                
+                            <div id="repl_id">
+                                <p><strong>[no domestic services available message; direct user to contact ups link in header.]</strong></p>
+                            </div>
+                             -->                    
+                            
+                           
+                           
+                           
+                           
+                           
+                           
+                            <!-- Begin Column -->					
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                   
+                                
+                                
+                                
+                                                  
+                                
+                                
+                                                            
+                            
+                            
+                            <!-- End Column -->
+                                                	
+                            <!-- Begin Column -->	
+                            
+                            <!-- End Column -->
+                                                
+                            <div class="clear"></div>
+                            
+                            
+                            
+
+                           
+                           
+                            
+                           
+                            
+
+                           
+                           
+                           
+                           
+                           
+                           
+                           <p class="reqTxtInst">
+			               
+		                   Result estimates calculated by UPS:&nbsp; Tuesday,&nbsp;November&nbsp;18,&nbsp;2014&nbsp;11:29&nbsp;A.M. Eastern Time (USA)
+        	               </p>
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+							
+							
+							
+									<p class="reqTxtInst">
+									 <SUP>&#042;</SUP> Rate includes a
+									 <!-- fix for defect: 82316-->
+									 <a href="javascript:popWrapper('http://www.ups.com/content/us/en/shipping/cost/zones/fuel_surcharge.html','pop_up_full_page')" class="helpTerm">
+									 fuel surcharge
+									 <img alt="" border="0" height="1" src="/img/1.gif" width="3"><a href="javascript:javascript:popWrapper('http://www.ups.com/content/us/en/shipping/cost/zones/fuel_surcharge.html','pop_up_full_page')"><img src="/img/icn_popup_blue.gif" alt="fuel surcharge" width="9" height="9" border="0"></a>
+									 	
+										
+                                			, but excludes taxes, duties and other charges that may apply to the shipment. For information about the final charge, contact UPS.
+                               		 	
+                            
+							
+							
+                           
+                           
+                           
+                           
+                           
+                           <p class="reqTxtInst">
+                            <br>
+                            
+
+
+
+
+
+
+
+
+
+
+                           </p>
+                           <!--RFC 7048  -->
+                            
+
+
+
+
+
+
+
+
+
+<!-- RFC 7048: add peak range disclaimer when guaranteed is hidden for all services-->
+		
+   	<br>
+                            <a class="btnlnkR newWindowIconR" href="javascript:void(0)" onClick="javascript:ctcJavaScript.displayGuaranteesNoticesDialog();return false;">Guarantees and Notices</a>            
+                            </td>
+                        </tr>
+                        <!-- ** End Messages To The User Row ** -->
+                                     
+                    </table>
+                                
+               </div>
+               <!-- End Results Table -->
+                            
+          </div>
+          <!-- End Section Body -->
+                        
+     </fieldset>
+     </div>
+     <!-- End Section Module -->
+     
+     
+     <!--shu no londer needed, displayed on input static view after redesign-->
+     <div id="detailHeaderInclude" >
+         
+
+
+
+
+
+
+
+          
+          
+          <div id="" class="stepModFixed4col" style="display:none">
+            <div class="stepModHead">
+              <h3 class="nostep">
+                 Shipment Information
+              </h3>
+
+              <div style="clear:both;"></div>
+            </div>
+            
+            <fieldset>
+            <legend>Shipment Details</legend>
+            <div class="stepModContent">
+              <div class="outHozFixed2" id="requestStatic">
+
+
+                  <dt>
+                     <label>
+                        Ship To:
+                     </label>
+                  </dt>
+                  <dd>
+                        300000, RUSSIA
+                        <input type="hidden" name="destPostal" value="300000" id="destPostalValue">
+                        <input type="hidden" name="destCity" value="" id="destCityValue">                        
+                  </dd>
+           <dd>
+
+             
+             
+                 Commercial
+                 
+             
+
+           </dd>               
+                  
+                  
+                  
+                  <dt>
+                     <label>
+                        Ship From:
+                     </label>
+                     <input type="hidden" name="origPostal" value="101000" id="origPostalValue">                      
+                     <input type="hidden" name="origCity" value="" id="origCityValue">                     
+                  </dt>
+
+                  <dd>
+                        101000, RUSSIA
+                  </dd>
+
+ 
+
+ 
+ 
+  
+	
+	  
+           <dd style="display:none">
+             
+             
+                 Commercial
+             
+           </dd>
+      
+	
+   
+   
+  
+    
+                  
+                  
+                  <dt>
+                     <label for="">
+                         Shipment Date:
+                     </label>
+                  </dt>
+                  <dd>
+                         Tuesday,&nbsp;November&nbsp;18,&nbsp;2014&nbsp;
+                         <sup>
+                            
+                         </sup>
+                  </dd>
+
+
+
+
+
+
+
+
+
+
+ 
+  
+  
+
+
+
+
+
+
+
+
+<div id="weightCopy">
+ 
+                  <dt>
+                       <label for="">
+     Total Shipment Weight:
+                       </label>
+                  </dt>
+                  <dd>
+                  
+                  
+     				1
+     				kgs.
+     			  
+     				
+
+                  </dd>
+
+ 
+</div> 
+                
+           <dt>
+              <label for="">
+                 
+                    Number of Packages:
+                 
+                 
+              </label>
+           </dt>
+           <dd>
+              1
+           </dd>
+                           
+                </div>
+                
+                
+                
+ 
+  <div id="staticSecCopy">
+
+
+    	<dt>
+         		<label for="">
+			Packaging:
+         		</label>
+    	</dt>
+           <dd id="staticPackageTypeName">
+                My Packaging<br>
+        		
+				
+    		</dd>
+    		
+    		<dd id = "dimStaticView">
+				  
+        			  
+           				2 x 2 x 2 cm. 
+        			
+                      		
+    		</dd>
+    		
+    		
+    
+
+        		
+
+
+
+	  <dt>
+	    <label for="pkgWeigthStaticView"  id = "pkgWeigthStaticView">
+		Package Weight:</label>
+		
+		<label for="palletWeigthStaticView"  id = "palletWeigthStaticView" style="display:none">
+		Pallet Weight:</label>
+		
+	  </dt>
+	  <dd id="pkgWeigthStaticVal">
+	      1 kgs.
+	  </dd> 
+
+ 
+
+ 	  
+                                 
+
+           <dt>
+              <label for="numOfPkgs" id="pkgNumStaticView" style="display:none">Number of Packages:</label>
+              <label for="numOfPlts" id="pltNumStaticView" style="display:none">Number of Pallets:</label>
+           </dt>
+           <dd>
+              1
+           </dd>
+           
+		   
+
+
+
+<div id="pkgDetailSummaryCollapsed"></div>
+
+
+
+<div id="pkgSurchargeApply" style="display:none">
+         	<label for="surchargeNoteLabel">
+			Notices&#58;
+         	</label>
+	<p><a id="pkgSurchargeLink" onclick="ctcJavaScript.popupSurchargeDialog(); return false;" class="btnlnkR newWindowIconR" href="javascript:void(0)">Package Surcharges Apply</a></p>
+</div>			
+ 
+
+
+<div id="palletSurchargeApply" style="display:none">
+         	<label for="palletSurchargeNoteLabel">
+			Notices&#58;
+         	</label>
+	<p><a id="palletSurchargeLink" onclick="ctcJavaScript.popupSurchargeDialog(); return false;" class="btnlnkR newWindowIconR" href="javascript:void(0)">Pallet Surcharges Apply</a></p>
+</div>			
+ 
+
+
+
+
+
+
+  
+    
+           <dt>
+              <label for="dec_val" id = "DecValStaticSingle">
+                 Declared Value&#58;
+              </label>
+           </dt>
+     
+       
+      
+      <dd id = "DecValSingleVal">    
+        
+        
+	        
+	            0.00001 RUB
+	        
+        
+
+      </dd>
+    
+
+
+
+
+
+<div id="singleNotice">
+
+
+    	<dt>
+         	<label for="">
+			Notices&#58;
+         	</label>
+    	</dt>  	
+<dd id="collapsedNoticesList">
+ 
+
+
+
+
+
+       
+  
+
+
+
+
+  
+  
+ 
+
+
+
+
+
+
+
+
+
+      
+ 
+
+
+      
+ 
+ 
+
+
+
+</dd>
+
+ 
+</div>  
+
+
+
+
+
+
+
+
+	
+	
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  
+
+  
+
+
+
+
+
+
+ 
+  
+  
+
+
+
+</div> 
+               
+                
+                
+                
+              <div style="clear:both"></div>
+            </div>
+          </fieldset>
+
+          </div>
+          
+
+
+
+     </div>
+     
+
+     
+       	<div id="detailFooterInclude">
+        	
+
+
+
+
+
+
+
+
+
+
+<div class="appHead clearfix">
+	<h2>Alerts or Surcharge Notices</h2>
+	<ul>
+		<li><input type="button" onclick="ctcJavaScript.closeSurchargeDialog()" title="Close" class="btnlnkL closeIcon"></li>
+	</ul>
+</div>
+<div class="appBody">
+	<p>Based on your shipment characteristics, the following alerts or surcharge notices apply to your quote.</p>
+	<div class="clearfix">
+		<table class="dataTable tableonly valignTop" border="0" cellpadding="0" cellspacing="0" width="100%">
+        	<tbody>
+            
+            
+            <tr>
+            	<th></th>
+            	<th nowrap="nowrap">Weight<br>&#40;kgs.&#41;</th>
+            	<th nowrap="nowrap">Dimensions / Packaging<br>&#40;cm.&#41;</th>
+            	<th nowrap="nowrap">Alerts or Surcharge Notices</th>
+            </tr>           
+             
+            
+            
+            
+            
+            
+            
+            <tr class="odd">
+            	
+            	
+            	<td>1</td>
+                
+                
+                
+                <td>1</td>                                            
+                
+                
+                
+                <td>
+                	
+              			My Packaging
+                	
+               	 	
+                	&nbsp;&#47;&nbsp;
+                	
+                	
+                		2&nbsp;&#120;&nbsp;
+                		2&nbsp;&#120;&nbsp;
+                		2                 		 
+                	
+                	
+                	
+                </td>
+                
+                
+                
+                <td> 
+                
+                <div id="noticeCopy">
+                
+                
+                
+                </div>
+                
+                
+                
+				
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+				
+      			
+ 				
+ 				
+ 				
+      			
+ 				
+ 				
+ 				
+ 				
+ 				
+ 					
+ 					
+ 				
+ 				
+ 				
+ 				
+ 				
+ 				
+ 				
+                </td>
+                
+                
+            </tr>
+            
+            
+            
+                        
+
+        	</tbody>
+    	</table>                                                           
+	</div>
+</div>
+
+<div class="appFooter">
+	<div class="btnBar alignCenter">
+		<input type="button" onclick="ctcJavaScript.closeSurchargeDialog()" value="Okay" class="btn">
+	</div>
+</div>
+
+            
+            
+	   
+  	</div>      
+      
+     
+        <div id="guaranteeNotesInclude" style="display:none">
+             
+
+
+
+
+
+
+
+
+
+<!-- Begin Application Module -->
+     <!--    <div class="appLvl mod modal dialog">  -->
+
+			<!-- Begin Application Header -->
+            <div class="appHead clearfix">
+				<h2>Guarantees and Notices</h2>
+				<ul>
+				    <li><input type="button" class="btnlnkL closeIcon" title="Close" id="modalClose" onClick="javascript:ctcJavaScript.closeGuaranteesNoticesDialog();"></li>
+				</ul>
+			</div>
+            <!-- End Application Header -->
+
+			<!-- Begin Application Body -->
+            <div class="appBody">
+				<!--  
+				<p>based on your shipment characteristics, the following guarantees and notices apply to your quote:</p>
+                -->
+               <p>
+               	Based on your shipment characteristics, the following guarantees and notices apply to your quote.
+               </p>
+                <div class="iDiv formcol24">
+                  
+                      <p class="reqTxtInst">
+                      
+
+                      
+
+                      
+                         Subject to the Tariff/Terms and Conditions of Service, UPS guarantees on-schedule delivery of packages, shipped via UPS's services, that are listed as guaranteed, or will refund your transportation charges.    Guaranteed Service is not available in all areas and does not apply to shipments containing a package with an Additional Handling or Large Package surcharge. Scheduled business days and delivery schedules are revised occasionally due to changes in distribution and volume.  Service to some remote areas also may require additional delivery days. For current delivery schedules, service availability and information, and a description of the UPS Service Guarantee, see the UPS Rate and Service Guide. Certain commodities and high value shipments may require additional transit time for customs clearance.<br><img alt="" height="8" src="/img/1.gif" width="10">
+                      
+                   
+                   
+                   
+                       <p class="reqTxtInst">
+                       
+
+                       
+
+                       
+                          Rates are estimates only based on Prepaid service.<br><img alt="" height="8" src="/img/1.gif" width="10">
+                       
+
+                  
+                       <p class="reqTxtInst">
+                       
+
+                       
+
+                       
+                          <span class="bold">Please Note</span>: Shipping rates quoted are estimates based on the information you have supplied. Shipping rates quoted do not include duties, taxes or other non-routine customs brokerage charges. Other shipping charges, surcharges or accessorial charges also may apply.  Your final shipping charge may differ based on your shipper characteristics and the characteristics of, and services requested for, packages actually tendered to UPS. Rates quoted here are based on UPS published rates.  Please see the UPS Rate and Service Guide or the applicable service and rate guide in your jurisdiction for details. Rates and service may vary at retail locations. <br><img alt="" height="8" src="/img/1.gif" width="10">
+                       
+
+                  
+                   
+                </div>
+                <br>
+			</div>
+            <!-- End Application Body -->                             
+
+			<!-- Begin Application Footer -->
+            <div class="appFooter">
+				<div class="btnBar alignCenter">
+				    <input type="button" class="btn" value="Okay" name="close_button" onClick="javascript:ctcJavaScript.closeGuaranteesNoticesDialog();">
+				</div>
+			</div>
+            <!-- End Application Footer -->
+            
+  <!-- 	</div>  -->
+        <!-- End Application Module -->
+
+
+
+
+  
+        </div>
+     
+     
+                    
+<!-- </div> -->
+<!-- End Second Column -->
+</form>
+<!-- SearchBodyEnd -->
+

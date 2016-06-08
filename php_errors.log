@@ -1,0 +1,17 @@
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  Undefined index: user_ID in /var/www/postscanner/user.php on line 26
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  Undefined index: user_login in /var/www/postscanner/user.php on line 27
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/postscanner/user.php on line 20
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  Undefined index: user_ID in /var/www/postscanner/user.php on line 26
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  Undefined index: user_login in /var/www/postscanner/user.php on line 27
+[27-Jun-2015 18:25:54 Europe/Moscow] PHP Notice:  Undefined index: islogged in /var/www/postscanner/user.php on line 77
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  Undefined index: user_ID in /var/www/postscanner/user.php on line 26
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  Undefined index: user_login in /var/www/postscanner/user.php on line 27
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/postscanner/user.php on line 20
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  Undefined index: user_ID in /var/www/postscanner/user.php on line 26
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  Undefined index: user_login in /var/www/postscanner/user.php on line 27
+[27-Jun-2015 18:29:26 Europe/Moscow] PHP Notice:  Undefined index: islogged in /var/www/postscanner/user.php on line 77
+[27-Jun-2015 18:29:30 Europe/Moscow] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /var/www/postscanner/_index-template.php:96) in /var/www/postscanner/user.php on line 20
+[27-Jun-2015 18:29:30 Europe/Moscow] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /var/www/postscanner/_index-template.php:96) in /var/www/postscanner/user.php on line 20
+[27-Jun-2015 18:29:30 Europe/Moscow] PHP Notice:  Undefined index: user_ID in /var/www/postscanner/user.php on line 26
+[27-Jun-2015 18:29:30 Europe/Moscow] PHP Notice:  Undefined index: user_login in /var/www/postscanner/user.php on line 27
+[27-Jun-2015 18:29:30 Europe/Moscow] PHP Notice:  Undefined index: islogged in /var/www/postscanner/user.php on line 77

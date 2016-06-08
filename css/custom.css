@@ -1,0 +1,12 @@
+.fullwidthbanner-container .tp-caption  a.white_link
+{
+    text-decoration:underline!important;
+    color:white;
+}
+.fullwidthbanner-container .tp-caption  a.white_link:hover
+{
+    text-decoration:none!important;
+    color:white;
+}
+
+

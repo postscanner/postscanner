@@ -1,0 +1,2 @@
+
+&lt;root&gt;&lt;Result RC=&quot;0&quot; /&gt;&lt;Login SID=&quot;7D4C0BF89BFD4034A4C00988A66373DF&quot; IsAdmin=&quot;1&quot;/&gt;&lt;/root&gt;</html>

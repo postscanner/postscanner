@@ -1,0 +1,29 @@
+<head>
+    <link href="select2.css" rel="stylesheet"/><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="select2.js"></script>
+    <script>
+    $(document).ready(function() {$("#fromCity").select2({
+        placeholder: "Выберите город",
+        minimumInputLength: 1,
+        ajax: {
+            url: "http://localhost/testing/select2-3.5.1/test.php",
+            dataType: 'json',
+            data: function (term, page) {
+                return {
+                    q: term
+                };
+            },
+            results: function (data, page) {
+                alert(data.length);
+                return {results: data};
+                return {results: JSON.parse(data)};
+            }
+        },
+    })});
+    </script>
+</head>
+
+<body>
+    <div id="fromCity">
+    </div>
+</body>

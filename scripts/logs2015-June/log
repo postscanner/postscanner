@@ -1,0 +1,1176 @@
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "./ruspost/ruspost.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "tnt/tnt.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cityexpress/cityepxress.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "cse/cse.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "zest/zest.py", line 3, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+Traceback (most recent call last):
+  File "ups/ups.py", line 2, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 216, in <module>
+    import lxml.html
+ImportError: No module named 'lxml'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f4ebd561b88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f4ec0f86ac8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f4ebd0fd288>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f4ebd5753c8>)
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8256ecfb88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8256ef0cc8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8256ed8088>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8256a6b788>)
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/spsr/spsr.php on line 14
+PHP Fatal error:  Uncaught exception 'Exception' with message 'Pecom Kabinet SDK requires the CURL PHP extension.' in /var/www/postscanner/scripts/pecom/pecom_kabinet.php:22
+Stack trace:
+#0 /var/www/postscanner/scripts/pecom/pecom.php(21): require_once()
+#1 {main}
+  thrown in /var/www/postscanner/scripts/pecom/pecom_kabinet.php on line 22
+PHP Fatal error:  Call to undefined function curl_init() in /var/www/postscanner/scripts/delline/delline.php on line 31
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f2f191f4f88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f2f191d4108>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f2f191f4288>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f2f191cef88>)
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8984e01dc8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8984e01dc8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8984e27e88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f8984e27f08>)
+PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://ws.dpd.ru/services/calculator2?wsdl' : failed to load external entity "http://ws.dpd.ru/services/calculator2?wsdl"
+ in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://ws.dpd.ru/services/calculator2?wsdl' : failed to load external entity "http://ws.dpd.ru/services/calculator2?wsdl"
+ in /var/www/postscanner/scripts/dpd/dpd.php:21
+Stack trace:
+#0 /var/www/postscanner/scripts/dpd/dpd.php(21): SoapClient->SoapClient('http://ws.dpd.r...')
+#1 {main}
+  thrown in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://ws.dpd.ru/services/calculator2?wsdl' : failed to load external entity "http://ws.dpd.ru/services/calculator2?wsdl"
+ in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://ws.dpd.ru/services/calculator2?wsdl' : failed to load external entity "http://ws.dpd.ru/services/calculator2?wsdl"
+ in /var/www/postscanner/scripts/dpd/dpd.php:21
+Stack trace:
+#0 /var/www/postscanner/scripts/dpd/dpd.php(21): SoapClient->SoapClient('http://ws.dpd.r...')
+#1 {main}
+  thrown in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://ws.dpd.ru:80/services/calculator2?xsd=1' in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://ws.dpd.ru:80/services/calculator2?xsd=1' in /var/www/postscanner/scripts/dpd/dpd.php:21
+Stack trace:
+#0 /var/www/postscanner/scripts/dpd/dpd.php(21): SoapClient->SoapClient('http://ws.dpd.r...')
+#1 {main}
+  thrown in /var/www/postscanner/scripts/dpd/dpd.php on line 21
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f230dfb7b88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f230dfc0388>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f230dfe3f48>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f230dfe3f48>)
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'Лесозаводск'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: result in /var/www/postscanner/scripts/dpd/dpd.php on line 125
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc4478ccb88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc4478edf48>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc4478d2ec8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc448bcdd08>)
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 93
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fe43b857d88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fe43b872f08>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fe43b8578c8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fe43b87dfc8>)
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "bxbery/bxbery.py", line 124, in <module>
+    weight = float(sys.argv[3])
+ValueError: could not convert string to float: '0,3'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: result in /var/www/postscanner/scripts/dpd/dpd.php on line 111
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: result in /var/www/postscanner/scripts/dpd/dpd.php on line 125
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "bxbery/bxbery.py", line 124, in <module>
+    weight = float(sys.argv[3])
+ValueError: could not convert string to float: '0,1'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: result in /var/www/postscanner/scripts/dpd/dpd.php on line 139
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'самара'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'Ленск'
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 33
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 33
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined property: stdClass::$air in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f5f4db8bec8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f5f4db65dc8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f5f4db683c8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f5f4d6fcfc8>)
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+Traceback (most recent call last):
+  File "garantpost/garantpost.py", line 81, in <module>
+    sendRequestAndPrintPrice(i)
+  File "garantpost/garantpost.py", line 47, in sendRequestAndPrintPrice
+    originalCityName, deliveryCityName = deliveryCItyName, originalCityName
+NameError: name 'deliveryCItyName' is not defined
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f09f814b988>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f09f8171fc8>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f09f8166e48>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f09f8151908>)
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 45
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/delline/delline.php on line 47
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+Traceback (most recent call last):
+  File "a-expr/a-expr.py", line 50, in <module>
+    "receivercity" : parser.Dict[deliviryCityName],
+KeyError: 'москва'
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc890976b88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc890997f88>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc8909a2108>)
+(<class 'IndexError'>, IndexError('list index out of range',), <traceback object at 0x7fc890997fc8>)
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$errors in /var/www/postscanner/scripts/delline/delline.php on line 44
+PHP Notice:  Undefined variable: ans in /var/www/postscanner/scripts/dpd/dpd.php on line 101
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'
+PHP Parse error:  syntax error, unexpected '}' in /var/www/postscanner/scripts/generalexpress/generalexpress.php on line 99
+PHP Notice:  Undefined offset: 0 in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 42
+PHP Notice:  Undefined property: stdClass::$hasError in /var/www/postscanner/scripts/pecom/pecom.php on line 86
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 87
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 88
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 93
+PHP Notice:  Undefined property: stdClass::$transfers in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+PHP Notice:  Trying to get property of non-object in /var/www/postscanner/scripts/pecom/pecom.php on line 94
+Traceback (most recent call last):
+  File "major/major.py", line 221, in <module>
+    cost = float(r[10].text.replace(",",".")) + float(r[12].text.replace(",","."))
+ValueError: could not convert string to float: 'Loading…'

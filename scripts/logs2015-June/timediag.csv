@@ -1,0 +1,1142 @@
+2015-06-15 02:43:44 ,   0.025837 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.073491 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.234285 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.263172 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.231083 , python3 ups/ups.py "101000" "190000" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.249539 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.258501 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.320640 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.299151 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.262241 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.437424 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.467981 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.560396 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.641838 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   0.662059 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:45 ,   1.026101 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:46 ,   1.566939 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:46 ,   1.880602 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:50 ,   5.349018 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-15 02:43:50 ,   5.450737 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.064383 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.184250 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.079714 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.220640 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.257857 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.288548 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.274097 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.223402 , python3 ups/ups.py "101000" "190000" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.235997 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.243099 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.387725 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.590635 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.550485 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:42 ,   0.533242 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:43 ,   0.939821 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:43 ,   1.513246 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:43 ,   1.548507 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:44 ,   1.932206 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:44 ,   2.042679 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:23:50 ,   8.169380 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.047308 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.064662 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.215001 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.235480 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.223101 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.241010 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.239947 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.239022 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.261622 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.425832 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.541678 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.590358 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:54 ,   0.587500 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:55 ,   0.858182 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:55 ,   1.067277 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:55 ,   1.277267 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:55 ,   1.477150 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:48:57 ,   3.791013 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:03 ,   9.334428 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.028838 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.029598 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.144496 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.171421 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.167979 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.169038 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.162421 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.130562 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.159460 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.449784 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.432713 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:27 ,   0.550807 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 09:49:28 ,   1.174148 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.028961 , php spsr/spsr.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.061316 , php pecom/pecom.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.246337 , python3 cityexpress/cityepxress.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.255146 , python3 ./ruspost/ruspost.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.246348 , python3 garantpost/garantpost.py "Москва" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.254343 , python3 tnt/tnt.py "Москва" "101000" "Самара" "443000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.220066 , python3 ups/ups.py "101000" "443000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.243531 , python3 zest/zest.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.284067 , python3 cse/cse.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.332350 , python3 emspost/emspost.py "МОСКВА" "САМАРА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.341383 , php dpd/dpd.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.504778 , python3 ponyexpress/ponyexpress.py "Москва" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.471949 , python3 expressauto/expressauto.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.556387 , python3 a-expr/a-expr.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.529845 , php delline/delline.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:07 ,   0.553609 , python3 major/major.py "Москва" "Самара" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:08 ,   1.089976 , python3 bxbery/bxbery.py "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:08 ,   1.453111 , python3 express/express.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:08 ,   1.421349 , php vixt/vixt.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:11 ,   4.722762 , python3 cdek/cdek.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.039154 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.039119 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.173743 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.179571 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.173509 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.186860 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.162823 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.169885 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.174843 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.465068 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.544407 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:20 ,   0.537254 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:51:21 ,   0.989419 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.073191 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.033034 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.172485 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.171223 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.183231 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.170499 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.189040 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.190619 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.194855 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.367197 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.485805 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:26 ,   0.469437 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:27 ,   0.758471 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:27 ,   0.844642 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:33 ,   7.640066 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.018647 , php spsr/spsr.php "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.047756 , php pecom/pecom.php "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.214743 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.225206 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.252908 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.269689 , python3 cse/cse.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.239529 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.252523 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.215413 , python3 zest/zest.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.226193 , python3 ups/ups.py "101000" "190000" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.395890 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.369508 , php delline/delline.php "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.545946 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:51 ,   0.485587 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:52 ,   0.565294 , python3 major/major.py "Москва" "Санкт-Петербург" "2" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:52 ,   0.776461 , php vixt/vixt.php "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:52 ,   0.953308 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:52 ,   1.285494 , python3 express/express.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:56 ,   4.728684 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "2" "0.000384" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:52:59 ,   7.905515 , php dpd/dpd.php "Москва" "Санкт-Петербург" "2" "0.000384" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.026551 , php spsr/spsr.php "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.056906 , php pecom/pecom.php "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.223945 , python3 garantpost/garantpost.py "Москва" "Ярославль" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.264344 , python3 emspost/emspost.py "МОСКВА" "ЯРОСЛАВЛЬ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.282273 , python3 ./ruspost/ruspost.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.228439 , python3 tnt/tnt.py "Москва" "101000" "Ярославль" "150000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.298076 , python3 cityexpress/cityepxress.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.245959 , python3 cse/cse.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.211876 , python3 expressauto/expressauto.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.242994 , python3 ups/ups.py "101000" "150000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:26 ,   0.234834 , python3 zest/zest.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   0.446999 , php delline/delline.php "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   0.540150 , python3 a-expr/a-expr.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   0.598994 , python3 ponyexpress/ponyexpress.py "Москва" "Ярославль" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   0.744189 , python3 major/major.py "Москва" "Ярославль" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   0.861656 , php vixt/vixt.php "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   1.296907 , python3 bxbery/bxbery.py "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:27 ,   1.383998 , python3 express/express.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:29 ,   3.175092 , python3 cdek/cdek.py "Москва" "Ярославль" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 10:59:34 ,   7.797255 , php dpd/dpd.php "Москва" "Ярославль" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:45 ,   0.018497 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:45 ,   0.043567 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:45 ,   0.436837 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:46 ,   0.606208 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:46 ,   0.740878 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:46 ,   0.828294 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:46 ,   1.052241 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:46 ,   1.226212 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:47 ,   1.853920 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:47 ,   1.833004 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:48 ,   3.213562 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:49 ,   4.410292 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:31:53 ,   7.603709 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.043545 , php spsr/spsr.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.066216 , php pecom/pecom.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.274120 , python3 emspost/emspost.py "МОСКВА" "ПОДОЛЬСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.318666 , php dpd/dpd.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.316881 , python3 ./ruspost/ruspost.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.278476 , python3 expressauto/expressauto.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.426324 , php delline/delline.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:35 ,   0.517956 , python3 ponyexpress/ponyexpress.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.494590 , python3 a-expr/a-expr.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.561664 , python3 major/major.py "Москва" "Подольск" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.645512 , python3 garantpost/garantpost.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.729780 , python3 cityexpress/cityepxress.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.760761 , python3 express/express.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.817799 , python3 bxbery/bxbery.py "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.807566 , python3 zest/zest.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   0.845723 , php vixt/vixt.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:36 ,   1.118973 , python3 ups/ups.py "101000" "142096" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:37 ,   1.628929 , python3 cdek/cdek.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:38 ,   3.452789 , python3 tnt/tnt.py "Москва" "101000" "Подольск" "142096" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:32:41 ,   5.744908 , python3 cse/cse.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.080935 , php spsr/spsr.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.058374 , php pecom/pecom.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.173735 , python3 emspost/emspost.py "МОСКВА" "ПОДОЛЬСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.193695 , python3 ./ruspost/ruspost.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.173330 , python3 expressauto/expressauto.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:47 ,   0.284194 , php dpd/dpd.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   0.458696 , python3 ponyexpress/ponyexpress.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   0.474709 , php delline/delline.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   0.529481 , python3 major/major.py "Москва" "Подольск" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   0.588472 , python3 zest/zest.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   0.708808 , python3 express/express.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   1.080901 , python3 bxbery/bxbery.py "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:46:48 ,   1.277738 , python3 ups/ups.py "101000" "142096" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.019721 , php spsr/spsr.php "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.055114 , php pecom/pecom.php "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.290959 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.444534 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.383693 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.376291 , php delline/delline.php "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.598363 , python3 major/major.py "Москва" "Санкт-Петербург" "3" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:36 ,   0.704470 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   0.748139 , php vixt/vixt.php "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   0.920391 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   0.986748 , python3 ups/ups.py "101000" "190000" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   1.118458 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   1.108246 , python3 zest/zest.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   1.384297 , python3 express/express.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   1.367723 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:37 ,   1.603375 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:38 ,   2.291119 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:38 ,   2.443374 , python3 cse/cse.py "Москва" "Санкт-Петербург" "3" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:39 ,   3.263307 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 15:49:44 ,   8.084095 , php dpd/dpd.php "Москва" "Санкт-Петербург" "3" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:13 ,   0.032161 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:13 ,   0.056540 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:13 ,   0.203667 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:13 ,   0.302266 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   0.391394 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   0.383755 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   0.480809 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   0.761924 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   1.054149 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:14 ,   1.187909 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:15 ,   1.392731 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:15 ,   1.448157 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-16 23:02:21 ,   7.933197 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.025869 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.054106 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.284773 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.347018 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.516879 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.444088 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.556546 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:21 ,   0.560766 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   0.747798 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   0.918810 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   0.969612 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   1.248717 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   1.401399 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:22 ,   1.538898 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:23 ,   1.697256 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:23 ,   1.807532 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:24 ,   3.490161 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:24 ,   3.658442 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:25 ,   4.111152 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:37:28 ,   7.303483 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:52 ,   0.427021 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:52 ,   0.415048 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:53 ,   0.839432 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:53 ,   1.099377 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:53 ,   1.462824 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:56 ,   4.212247 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:54:56 ,   4.731380 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.213857 , python3 ./ruspost/ruspost.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.286243 , php dpd/dpd.php "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.304815 , python3 emspost/emspost.py "АРХАНГЕЛЬСК" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.259572 , python3 bxbery/bxbery.py "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.244430 , python3 expressauto/expressauto.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:35 ,   0.498778 , python3 ponyexpress/ponyexpress.py "Архангельск" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   0.556565 , python3 major/major.py "Архангельск" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   0.790669 , python3 a-expr/a-expr.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   0.852860 , python3 garantpost/garantpost.py "Архангельск" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   0.897576 , php vixt/vixt.php "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   0.908312 , python3 zest/zest.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   1.029027 , php pecom/pecom.php "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   1.231224 , python3 cdek/cdek.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:36 ,   1.406018 , python3 express/express.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:37 ,   1.508417 , php delline/delline.php "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:37 ,   1.754045 , python3 ups/ups.py "163000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:37 ,   2.177159 , python3 cityexpress/cityepxress.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:37 ,   2.296414 , php spsr/spsr.php "Архангельск" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:37 ,   2.368662 , python3 cse/cse.py "Архангельск" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 00:58:39 ,   4.284613 , python3 tnt/tnt.py "Архангельск" "163000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:33 ,   0.228927 , python3 bxbery/bxbery.py "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:33 ,   0.290822 , python3 ./ruspost/ruspost.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:33 ,   0.305657 , python3 emspost/emspost.py "САМАРА" "КАЗАНЬ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:33 ,   0.429316 , python3 expressauto/expressauto.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   0.545008 , php dpd/dpd.php "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   0.544724 , python3 ponyexpress/ponyexpress.py "Самара" "Казань" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   0.555781 , python3 major/major.py "Самара" "Казань" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   0.746644 , python3 zest/zest.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.020856 , python3 a-expr/a-expr.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.055946 , python3 garantpost/garantpost.py "Самара" "Казань" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.039646 , php vixt/vixt.php "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.095222 , php pecom/pecom.php "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.375013 , python3 cdek/cdek.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:34 ,   1.511011 , python3 express/express.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:35 ,   1.628612 , python3 ups/ups.py "443000" "420000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:36 ,   2.479429 , python3 cse/cse.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:36 ,   3.082556 , php spsr/spsr.php "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:37 ,   3.593067 , python3 tnt/tnt.py "Самара" "443000" "Казань" "420000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:38 ,   4.745000 , php delline/delline.php "Самара" "Казань" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:00:40 ,   6.768498 , python3 cityexpress/cityepxress.py "Самара" "Казань" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:30 ,   0.407972 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:31 ,   0.998634 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:31 ,   1.059185 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:31 ,   1.119840 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:32 ,   1.718095 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:34 ,   4.306311 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:38 ,   7.757548 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:12:48 ,  17.941505 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.306752 , python3 emspost/emspost.py "МОСКВА" "ПОДОЛЬСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.342909 , python3 ./ruspost/ruspost.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.278002 , python3 expressauto/expressauto.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.451583 , php pecom/pecom.php "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.511001 , python3 ponyexpress/ponyexpress.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.558421 , python3 major/major.py "Москва" "Подольск" "1" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.599867 , python3 a-expr/a-expr.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.670781 , python3 garantpost/garantpost.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.710021 , php dpd/dpd.php "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.752104 , python3 cityexpress/cityepxress.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.729514 , python3 zest/zest.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.760345 , python3 express/express.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   0.859799 , php vixt/vixt.php "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:24 ,   1.149615 , python3 ups/ups.py "101000" "142096" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:25 ,   1.581874 , python3 cdek/cdek.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:25 ,   1.595627 , php delline/delline.php "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:26 ,   2.343198 , python3 tnt/tnt.py "Москва" "101000" "Подольск" "142096" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:26 ,   2.923570 , php spsr/spsr.php "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:28 ,   4.281800 , python3 bxbery/bxbery.py "Москва" "Подольск" "1" "0.000001" "15" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 01:13:29 ,   5.812489 , python3 cse/cse.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:36 ,   0.253660 , python3 emspost/emspost.py "МОСКВА" "МОСКВА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.397640 , python3 expressauto/expressauto.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.509178 , python3 ponyexpress/ponyexpress.py "Москва" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.742474 , python3 ./ruspost/ruspost.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.813727 , python3 a-expr/a-expr.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.843133 , python3 garantpost/garantpost.py "Москва" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.987486 , python3 bxbery/bxbery.py "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:37 ,   0.896619 , python3 zest/zest.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:38 ,   1.364879 , python3 express/express.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:38 ,   1.595510 , php vixt/vixt.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:38 ,   1.685459 , python3 ups/ups.py "101000" "101000" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:38 ,   2.152204 , python3 major/major.py "Москва" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:38 ,   2.219457 , python3 cdek/cdek.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:39 ,   2.410717 , python3 cse/cse.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:39 ,   2.679624 , php spsr/spsr.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:40 ,   3.798304 , python3 tnt/tnt.py "Москва" "101000" "Москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:40 ,   3.754944 , php pecom/pecom.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:40 ,   4.036819 , python3 cityexpress/cityepxress.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:40:53 ,  17.220580 , php dpd/dpd.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:41:38 ,  61.478578 , php delline/delline.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:43:10 ,   0.201673 , php pecom/pecom.php "Москва" "Москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:43:10 ,   0.257577 , python3 expressauto/expressauto.py "Москва" "Москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:43:11 ,   0.564869 , python3 major/major.py "Москва" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:43:12 ,   1.348835 , python3 ponyexpress/ponyexpress.py "Москва" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:43:14 ,   3.870258 , python3 tnt/tnt.py "Москва" "101000" "Москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:12 ,   0.280940 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:12 ,   0.241894 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.490813 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.410426 , python3 expressauto/expressauto.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.565051 , python3 major/major.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.684238 , python3 ./ruspost/ruspost.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.850597 , python3 garantpost/garantpost.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.930258 , python3 a-expr/a-expr.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   0.951809 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   1.132647 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   1.392474 , python3 express/express.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   1.269886 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:13 ,   1.317885 , python3 ups/ups.py "630000" "101000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:14 ,   2.425673 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:15 ,   2.740024 , python3 cityexpress/cityepxress.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:15 ,   2.895076 , python3 cse/cse.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:15 ,   3.178794 , python3 tnt/tnt.py "Новосибирск" "630000" "Москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:16 ,   3.617083 , python3 cdek/cdek.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:49:12 ,  60.093303 , php dpd/dpd.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:49:14 ,  61.489367 , php delline/delline.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:47 ,   0.319658 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:47 ,   0.373918 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:47 ,   0.520934 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:47 ,   0.574926 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:47 ,   0.593041 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   0.581639 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   0.885973 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   0.878448 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   1.035958 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   1.215205 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   1.292056 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:48 ,   1.302222 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:49 ,   1.749501 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:49 ,   1.791415 , python3 ups/ups.py "101000" "190000" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:49 ,   2.092902 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:50 ,   2.722986 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:50 ,   2.881969 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:48:50 ,   3.185131 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:49:47 ,  60.119870 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:49:48 ,  60.497980 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.203008 , python3 ./ruspost/ruspost.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.261331 , python3 emspost/emspost.py "МОСКВА" "ПОДОЛЬСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.199756 , python3 expressauto/expressauto.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.317176 , php pecom/pecom.php "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.491309 , python3 a-expr/a-expr.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.601311 , python3 ponyexpress/ponyexpress.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.545527 , python3 major/major.py "Москва" "Подольск" "1" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.703875 , python3 express/express.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.697400 , python3 zest/zest.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:42 ,   0.760692 , python3 bxbery/bxbery.py "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:43 ,   0.847420 , php vixt/vixt.php "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:43 ,   1.230542 , python3 ups/ups.py "101000" "142096" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:44 ,   2.578250 , php spsr/spsr.php "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:44 ,   2.612649 , python3 cityexpress/cityepxress.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:47 ,   4.936970 , python3 cdek/cdek.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:50:47 ,   5.345465 , python3 cse/cse.py "Москва" "Подольск" "1" "0.00001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:51:43 ,  61.447935 , php delline/delline.php "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 09:51:49 ,  67.192354 , php dpd/dpd.php "Москва" "Подольск" "1" "0.00001" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.292158 , python3 emspost/emspost.py "МОСКВА" "КЛИН" "4" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.309381 , python3 ./ruspost/ruspost.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.265119 , python3 expressauto/expressauto.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.464572 , php dpd/dpd.php "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.348034 , php pecom/pecom.php "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.486648 , python3 garantpost/garantpost.py "Москва" "Клин" "4" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.544461 , python3 ponyexpress/ponyexpress.py "Москва" "Клин" "4" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.657425 , python3 a-expr/a-expr.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:19 ,   0.664556 , python3 major/major.py "Москва" "Клин" "4" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:20 ,   0.966437 , python3 cdek/cdek.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:20 ,   1.151818 , python3 cityexpress/cityepxress.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:20 ,   1.511082 , python3 express/express.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:20 ,   1.477251 , python3 zest/zest.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:20 ,   1.559868 , php delline/delline.php "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:21 ,   2.020432 , python3 ups/ups.py "101000" "141601" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:21 ,   2.319093 , php spsr/spsr.php "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:23 ,   3.860698 , python3 cse/cse.py "Москва" "Клин" "4" "0.007986" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:23 ,   4.336938 , python3 tnt/tnt.py "Москва" "101000" "Клин" "141601" "4" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:23 ,   4.361781 , python3 bxbery/bxbery.py "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 19:37:24 ,   5.273923 , php vixt/vixt.php "Москва" "Клин" "4" "0.007986" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:38 ,   0.260605 , python3 emspost/emspost.py "МОСКВА" "МАХАЧКАЛА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.245731 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.348602 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.522795 , python3 a-expr/a-expr.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.589230 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.560206 , python3 major/major.py "Москва" "Махачкала" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.859987 , python3 ./ruspost/ruspost.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.868356 , python3 express/express.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.894981 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:39 ,   0.886495 , python3 zest/zest.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   1.479150 , python3 garantpost/garantpost.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   1.476374 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   1.852470 , python3 cdek/cdek.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   2.071714 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   2.027244 , python3 ups/ups.py "101000" "367000" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:40 ,   2.062790 , php delline/delline.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:41 ,   2.707231 , python3 cityexpress/cityepxress.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:42 ,   3.325130 , python3 cse/cse.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:44 ,   5.487370 , python3 tnt/tnt.py "Москва" "101000" "Махачкала" "367000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:49:45 ,   6.502141 , php dpd/dpd.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.117777 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.293974 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.408835 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.455813 , python3 major/major.py "Москва" "Махачкала" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.671729 , python3 express/express.py "Москва" "Махачкала" "1" "0.002744" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.738437 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-17 23:50:23 ,   0.782064 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.002744" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.204745 , python3 bxbery/bxbery.py "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.316836 , python3 emspost/emspost.py "ВЛАДИВОСТОК" "ЛЕСОЗАВОДСК" "30" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.269864 , python3 garantpost/garantpost.py "Владивосток" "Лесозаводск" "30" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.328164 , python3 ./ruspost/ruspost.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.272955 , python3 expressauto/expressauto.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.520281 , php spsr/spsr.php "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.487694 , python3 a-expr/a-expr.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.630524 , python3 cdek/cdek.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.575730 , python3 major/major.py "Владивосток" "Лесозаводск" "30" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:14 ,   0.752856 , python3 express/express.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:15 ,   1.003104 , python3 cityexpress/cityepxress.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:15 ,   1.024417 , python3 zest/zest.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:15 ,   1.354241 , python3 ups/ups.py "690000" "692031" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:15 ,   1.804195 , php delline/delline.php "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:16 ,   2.026855 , python3 ponyexpress/ponyexpress.py "Владивосток" "Лесозаводск" "30" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:16 ,   2.008106 , php pecom/pecom.php "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:16 ,   2.140276 , python3 cse/cse.py "Владивосток" "Лесозаводск" "30" "0.07" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:18 ,   3.994694 , php vixt/vixt.php "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:19 ,   5.237907 , python3 tnt/tnt.py "Владивосток" "690000" "Лесозаводск" "692031" "30" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:18:19 ,   5.364427 , php dpd/dpd.php "Владивосток" "Лесозаводск" "30" "0.07" "7000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.225567 , python3 ./ruspost/ruspost.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.084686 , php generalexpress/generalexpress.php "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.300874 , python3 emspost/emspost.py "МОСКВА" "ПОДОЛЬСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.231362 , python3 expressauto/expressauto.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.257452 , php pecom/pecom.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.550145 , python3 ponyexpress/ponyexpress.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.554088 , python3 a-expr/a-expr.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.640234 , python3 major/major.py "Москва" "Подольск" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.723743 , php dpd/dpd.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.790467 , python3 express/express.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.850443 , python3 bxbery/bxbery.py "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.943112 , python3 cityexpress/cityepxress.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:16 ,   0.999859 , python3 zest/zest.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:17 ,   1.095890 , php vixt/vixt.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:17 ,   1.697239 , python3 ups/ups.py "101000" "142096" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:17 ,   1.995803 , php delline/delline.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:18 ,   2.337031 , php spsr/spsr.php "Москва" "Подольск" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:18 ,   2.664926 , python3 cse/cse.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:19 ,   3.399667 , python3 cdek/cdek.py "Москва" "Подольск" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:20 ,   4.626121 , python3 tnt/tnt.py "Москва" "101000" "Подольск" "142096" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:21 ,   5.916720 , python3 garantpost/garantpost.py "Москва" "Подольск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.118325 , php generalexpress/generalexpress.php "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.279942 , python3 emspost/emspost.py "МОСКВА" "МОСКВА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.420667 , python3 expressauto/expressauto.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.368297 , php pecom/pecom.php "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.590197 , python3 ponyexpress/ponyexpress.py "Москва" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.623772 , python3 ./ruspost/ruspost.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:34 ,   0.587620 , python3 major/major.py "Москва" "Москва" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   0.820242 , python3 garantpost/garantpost.py "Москва" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   0.945710 , python3 a-expr/a-expr.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   0.868206 , python3 ups/ups.py "101000" "101000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   0.875125 , python3 zest/zest.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   0.935421 , php vixt/vixt.php "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   1.060161 , python3 bxbery/bxbery.py "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   1.423525 , python3 express/express.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   1.413802 , php delline/delline.php "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:35 ,   1.537335 , python3 cityexpress/cityepxress.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:36 ,   1.913214 , php spsr/spsr.php "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:36 ,   2.352752 , python3 cse/cse.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:37 ,   3.244561 , python3 tnt/tnt.py "Москва" "101000" "Москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:38 ,   4.176759 , python3 cdek/cdek.py "Москва" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:49:42 ,   8.073195 , php dpd/dpd.php "Москва" "Москва" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:04 ,   0.113317 , php generalexpress/generalexpress.php "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:04 ,   0.309207 , python3 emspost/emspost.py "МОСКВА" "САМАРА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:04 ,   0.388740 , php dpd/dpd.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:04 ,   0.471439 , python3 ./ruspost/ruspost.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:04 ,   0.414534 , python3 expressauto/expressauto.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   0.556971 , python3 ponyexpress/ponyexpress.py "Москва" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   0.556214 , python3 a-expr/a-expr.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   0.590588 , python3 major/major.py "Москва" "Самара" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   0.926898 , python3 ups/ups.py "101000" "443000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   0.842601 , php vixt/vixt.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   1.319518 , python3 express/express.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   1.328572 , python3 zest/zest.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   1.468194 , python3 bxbery/bxbery.py "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:05 ,   1.395867 , php pecom/pecom.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:06 ,   1.632166 , php delline/delline.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:06 ,   2.149245 , python3 cse/cse.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:06 ,   2.311910 , php spsr/spsr.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:07 ,   3.138561 , python3 cdek/cdek.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:07 ,   3.449038 , python3 tnt/tnt.py "Москва" "101000" "Самара" "443000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:08 ,   4.501256 , python3 garantpost/garantpost.py "Москва" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:50:11 ,   6.745267 , python3 cityexpress/cityepxress.py "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:19 ,   0.014946 , php generalexpress/generalexpress.php "Москва" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:19 ,   0.415898 , python3 major/major.py "Москва" "Самара" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:19 ,   0.458437 , php dpd/dpd.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:19 ,   0.768695 , php vixt/vixt.php "Москва" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:20 ,   1.446534 , python3 ponyexpress/ponyexpress.py "Москва" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.059788 , php generalexpress/generalexpress.php "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.265434 , python3 bxbery/bxbery.py "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.312884 , python3 ./ruspost/ruspost.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.350816 , python3 emspost/emspost.py "КРАСНОЯРСК" "САМАРА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.254083 , python3 expressauto/expressauto.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:44 ,   0.380388 , php dpd/dpd.php "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.582659 , python3 ponyexpress/ponyexpress.py "Красноярск" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.562051 , python3 a-expr/a-expr.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.714707 , python3 zest/zest.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.765941 , python3 major/major.py "Красноярск" "Самара" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.844885 , python3 garantpost/garantpost.py "Красноярск" "Самара" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   0.909577 , php vixt/vixt.php "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   1.234846 , python3 ups/ups.py "660000" "443000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:45 ,   1.363324 , python3 cdek/cdek.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:46 ,   1.411713 , python3 express/express.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:46 ,   1.532344 , php delline/delline.php "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:46 ,   1.614951 , php pecom/pecom.php "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:47 ,   2.470525 , php spsr/spsr.php "Красноярск" "Самара" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:47 ,   3.180267 , python3 cse/cse.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:51:47 ,   3.211038 , python3 cityexpress/cityepxress.py "Красноярск" "Самара" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:06 ,  21.880769 , python3 tnt/tnt.py "Красноярск" "660000" "Самара" "443000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:21 ,   0.074591 , php generalexpress/generalexpress.php "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.288154 , python3 emspost/emspost.py "МОСКВА" "МОСКВА" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.496444 , python3 expressauto/expressauto.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.596946 , python3 ponyexpress/ponyexpress.py "Москва" "Москва" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.491104 , php pecom/pecom.php "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.627684 , python3 ./ruspost/ruspost.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.604588 , python3 major/major.py "Москва" "Москва" "2" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.814133 , python3 a-expr/a-expr.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.859677 , python3 garantpost/garantpost.py "Москва" "Москва" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   0.931119 , php vixt/vixt.php "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   1.107660 , python3 cityexpress/cityepxress.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   1.035853 , python3 zest/zest.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   1.095140 , python3 bxbery/bxbery.py "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:22 ,   1.119029 , python3 ups/ups.py "101000" "101000" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:23 ,   1.313935 , python3 express/express.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:23 ,   1.856994 , php delline/delline.php "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:23 ,   2.014706 , php spsr/spsr.php "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:24 ,   2.544081 , python3 cse/cse.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:25 ,   3.215909 , python3 tnt/tnt.py "Москва" "101000" "Москва" "101000" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:26 ,   4.749203 , python3 cdek/cdek.py "Москва" "Москва" "2" "0.001728" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:52:29 ,   8.174549 , php dpd/dpd.php "Москва" "Москва" "2" "0.001728" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.075517 , php generalexpress/generalexpress.php "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.238339 , python3 emspost/emspost.py "МОСКВА" "САНКТ-ПЕТЕРБУРГ" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.386201 , python3 expressauto/expressauto.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.501095 , python3 ponyexpress/ponyexpress.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.511789 , python3 ./ruspost/ruspost.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.539603 , python3 a-expr/a-expr.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:06 ,   0.620396 , python3 major/major.py "Москва" "Санкт-Петербург" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   0.923504 , python3 ups/ups.py "101000" "190000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   0.879584 , python3 zest/zest.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   0.853148 , php vixt/vixt.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.030973 , python3 bxbery/bxbery.py "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.190666 , python3 garantpost/garantpost.py "Москва" "Санкт-Петербург" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.141408 , php pecom/pecom.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.321999 , python3 express/express.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.625736 , python3 cityexpress/cityepxress.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:07 ,   1.617368 , php delline/delline.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:08 ,   2.252397 , python3 cdek/cdek.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:08 ,   2.293070 , php spsr/spsr.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:08 ,   2.520743 , python3 cse/cse.py "Москва" "Санкт-Петербург" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:10 ,   4.848827 , python3 tnt/tnt.py "Москва" "101000" "Санкт-Петербург" "190000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-18 12:53:15 ,   9.511406 , php dpd/dpd.php "Москва" "Санкт-Петербург" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.082322 , php generalexpress/generalexpress.php "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.268480 , python3 emspost/emspost.py "КИНЕЛЬ" "ОМСК" "0,3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.278286 , python3 garantpost/garantpost.py "Кинель" "Омск" "0,3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.299200 , python3 ./ruspost/ruspost.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.238554 , python3 expressauto/expressauto.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.283187 , python3 bxbery/bxbery.py "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.530256 , python3 ponyexpress/ponyexpress.py "Кинель" "Омск" "0,3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.574757 , python3 major/major.py "Кинель" "Омск" "0,3" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.629773 , php delline/delline.php "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.754745 , python3 cdek/cdek.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.748029 , python3 a-expr/a-expr.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:51 ,   0.713118 , python3 zest/zest.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:52 ,   1.642204 , python3 ups/ups.py "446430" "644000" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:53 ,   2.647554 , python3 cse/cse.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:53 ,   2.750107 , python3 tnt/tnt.py "Кинель" "446430" "Омск" "644000" "0,3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:54 ,   3.734822 , php spsr/spsr.php "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:55 ,   4.399109 , python3 cityexpress/cityepxress.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:56 ,   5.632148 , php dpd/dpd.php "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:57 ,   6.503880 , python3 express/express.py "Кинель" "Омск" "0,3" "0.0015" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:20:58 ,   6.804105 , php vixt/vixt.php "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 20:21:07 ,  16.076038 , php pecom/pecom.php "Кинель" "Омск" "0,3" "0.0015" "100" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.071968 , php generalexpress/generalexpress.php "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.209303 , python3 ./ruspost/ruspost.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.272559 , python3 emspost/emspost.py "МОСКВА" "ЛЮДИНОВО" "11" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.271021 , python3 garantpost/garantpost.py "Москва" "Людиново" "11" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.235171 , python3 expressauto/expressauto.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.360031 , php pecom/pecom.php "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.546005 , python3 ponyexpress/ponyexpress.py "Москва" "Людиново" "11" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.623717 , python3 a-expr/a-expr.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:29 ,   0.543076 , python3 major/major.py "Москва" "Людиново" "11" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:30 ,   0.895813 , python3 bxbery/bxbery.py "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:30 ,   1.260134 , python3 cdek/cdek.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:30 ,   1.334257 , php vixt/vixt.php "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:30 ,   1.527667 , python3 express/express.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:31 ,   1.767592 , php spsr/spsr.php "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:31 ,   1.667660 , php delline/delline.php "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:31 ,   1.755174 , python3 ups/ups.py "101000" "249400" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:31 ,   1.995272 , python3 zest/zest.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:31 ,   2.071969 , python3 cse/cse.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:32 ,   2.715933 , python3 cityexpress/cityepxress.py "Москва" "Людиново" "11" "0.0486" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:34 ,   4.819257 , php dpd/dpd.php "Москва" "Людиново" "11" "0.0486" "10" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-19 22:12:34 ,   4.985423 , python3 tnt/tnt.py "Москва" "101000" "Людиново" "249400" "11" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.263881 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.087678 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.314658 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.284444 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.266862 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.264183 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.322927 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.477958 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.598598 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.558120 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:19 ,   0.696235 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:20 ,   1.270076 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:20 ,   1.423587 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:20 ,   1.492783 , php delline/delline.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:21 ,   2.141072 , python3 ups/ups.py "630000" "101000" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:21 ,   2.384370 , python3 cityexpress/cityepxress.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:22 ,   3.751730 , python3 tnt/tnt.py "новосибирск" "630000" "москва" "101000" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:22 ,   3.776523 , python3 cse/cse.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:25 ,   6.305460 , php dpd/dpd.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:27 ,   8.910251 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 10:46:59 ,  40.434285 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.182373 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.081706 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.155978 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.206150 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.215175 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.389246 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.450615 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:41 ,   0.367196 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:42 ,   0.632658 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:42 ,   1.013071 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:42 ,   1.219701 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:42 ,   1.217112 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:06:42 ,   1.432844 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:07:21 ,  40.425165 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.141880 , php generalexpress/generalexpress.php "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.278349 , python3 ./ruspost/ruspost.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.279725 , python3 garantpost/garantpost.py "Челябинск" "Златоуст" "0,1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.323161 , python3 emspost/emspost.py "ЧЕЛЯБИНСК" "ЗЛАТОУСТ" "0,1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.264053 , python3 bxbery/bxbery.py "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.370088 , python3 expressauto/expressauto.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.506556 , python3 a-expr/a-expr.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:10 ,   0.546675 , python3 major/major.py "Челябинск" "Златоуст" "0,1" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   0.671878 , php delline/delline.php "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.036361 , python3 ponyexpress/ponyexpress.py "Челябинск" "Златоуст" "0,1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.036935 , python3 zest/zest.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.040731 , php vixt/vixt.php "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.338848 , python3 cdek/cdek.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.323905 , python3 express/express.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.291379 , python3 ups/ups.py "454000" "456200" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:11 ,   1.419435 , python3 cityexpress/cityepxress.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:12 ,   1.669342 , php pecom/pecom.php "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:12 ,   2.251980 , php dpd/dpd.php "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:12 ,   2.183275 , python3 cse/cse.py "Челябинск" "Златоуст" "0,1" "0.00075" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:13 ,   2.756190 , python3 tnt/tnt.py "Челябинск" "454000" "Златоуст" "456200" "0,1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 11:12:50 ,  40.415498 , php spsr/spsr.php "Челябинск" "Златоуст" "0,1" "0.00075" "570" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:30 ,   0.061120 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:30 ,   0.191321 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:30 ,   0.207294 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:30 ,   0.151191 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:30 ,   0.215031 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   0.355891 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   0.464444 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   0.494128 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   0.508028 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   0.569961 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   1.241736 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   1.356391 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:11:31 ,   1.292702 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:10 ,  40.397290 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.067127 , php generalexpress/generalexpress.php "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.236731 , python3 ./ruspost/ruspost.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.277936 , python3 garantpost/garantpost.py "новосибирск" "самара" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.299554 , python3 bxbery/bxbery.py "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.286420 , python3 expressauto/expressauto.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.368334 , php dpd/dpd.php "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.433380 , python3 emspost/emspost.py "НОВОСИБИРСК" "САМАРА" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.528443 , python3 ponyexpress/ponyexpress.py "новосибирск" "самара" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.568289 , python3 major/major.py "новосибирск" "самара" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.660273 , python3 cdek/cdek.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:16 ,   0.640757 , python3 zest/zest.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:17 ,   0.925678 , php vixt/vixt.php "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:17 ,   1.347533 , python3 express/express.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:17 ,   1.435911 , python3 a-expr/a-expr.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:17 ,   1.383923 , php pecom/pecom.php "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:18 ,   1.813927 , php delline/delline.php "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:18 ,   2.309049 , python3 ups/ups.py "630000" "443000" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:18 ,   2.399620 , python3 cse/cse.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:19 ,   3.259541 , python3 cityexpress/cityepxress.py "новосибирск" "самара" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:19 ,   3.829473 , python3 tnt/tnt.py "новосибирск" "630000" "самара" "443000" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 13:12:56 ,  40.418545 , php spsr/spsr.php "новосибирск" "самара" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:16 ,   0.090527 , php generalexpress/generalexpress.php "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:16 ,   0.310345 , python3 emspost/emspost.py "КРАСНОЯРСК" "МОСКВА" "13" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:16 ,   0.289253 , python3 expressauto/expressauto.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:16 ,   0.289115 , python3 bxbery/bxbery.py "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   0.506720 , python3 ponyexpress/ponyexpress.py "Красноярск" "Москва" "13" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   0.578882 , python3 a-expr/a-expr.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   0.573231 , python3 major/major.py "Красноярск" "Москва" "13" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   0.863953 , python3 ./ruspost/ruspost.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   0.928668 , python3 zest/zest.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   1.091871 , python3 garantpost/garantpost.py "Красноярск" "Москва" "13" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:17 ,   1.042146 , php pecom/pecom.php "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:18 ,   1.610167 , python3 express/express.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:18 ,   1.675802 , python3 ups/ups.py "660000" "101000" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:18 ,   1.751079 , php delline/delline.php "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:18 ,   2.168822 , python3 cdek/cdek.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:18 ,   2.364139 , python3 cityexpress/cityepxress.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:19 ,   3.128113 , python3 cse/cse.py "Красноярск" "Москва" "13" "0.066825" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:21 ,   4.431963 , python3 tnt/tnt.py "Красноярск" "660000" "Москва" "101000" "13" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:23 ,   6.753067 , php dpd/dpd.php "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:25 ,   8.481313 , php vixt/vixt.php "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-20 23:41:56 ,  40.421161 , php spsr/spsr.php "Красноярск" "Москва" "13" "0.066825" "29200" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.109427 , php generalexpress/generalexpress.php "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.256049 , python3 bxbery/bxbery.py "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.330091 , python3 emspost/emspost.py "ЧИТА" "МОСКВА" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.287781 , python3 expressauto/expressauto.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.559250 , python3 ponyexpress/ponyexpress.py "Чита" "Москва" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.689560 , python3 ./ruspost/ruspost.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.668153 , python3 major/major.py "Чита" "Москва" "2" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:48 ,   0.931431 , python3 garantpost/garantpost.py "Чита" "Москва" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   0.965486 , python3 a-expr/a-expr.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.095022 , python3 zest/zest.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.074173 , php pecom/pecom.php "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.485763 , php delline/delline.php "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.731250 , python3 express/express.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.706040 , python3 ups/ups.py "422792" "101000" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.735929 , php vixt/vixt.php "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:49 ,   1.887214 , python3 cdek/cdek.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:50 ,   2.037763 , python3 cityexpress/cityepxress.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:50 ,   2.577592 , python3 cse/cse.py "Чита" "Москва" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:55 ,   7.386229 , php dpd/dpd.php "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:31:55 ,   7.525111 , python3 tnt/tnt.py "Чита" "422792" "Москва" "101000" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:32:29 ,  41.010888 , php spsr/spsr.php "Чита" "Москва" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.086270 , php generalexpress/generalexpress.php "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.296091 , python3 bxbery/bxbery.py "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.318565 , python3 emspost/emspost.py "ЧИТА" "ЛЕНСК" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.349053 , python3 ./ruspost/ruspost.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.300189 , python3 expressauto/expressauto.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.320064 , python3 garantpost/garantpost.py "Чита" "Ленск" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.499616 , php dpd/dpd.php "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.469899 , python3 a-expr/a-expr.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.444025 , php pecom/pecom.php "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:06 ,   0.600482 , python3 ponyexpress/ponyexpress.py "Чита" "Ленск" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   0.599488 , python3 major/major.py "Чита" "Ленск" "2" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   0.637954 , python3 cdek/cdek.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   0.952407 , python3 zest/zest.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   0.928401 , php vixt/vixt.php "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   1.257038 , python3 ups/ups.py "422792" "617452" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:07 ,   1.382954 , python3 express/express.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:08 ,   1.655233 , php delline/delline.php "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:08 ,   2.098275 , python3 cityexpress/cityepxress.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:09 ,   3.437308 , python3 cse/cse.py "Чита" "Ленск" "2" "0.025" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:11 ,   4.902745 , python3 tnt/tnt.py "Чита" "422792" "Ленск" "617452" "2" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 07:34:46 ,  40.487708 , php spsr/spsr.php "Чита" "Ленск" "2" "0.025" "2000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.106354 , php generalexpress/generalexpress.php "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.262007 , python3 emspost/emspost.py "ОДИНЦОВО" "МОСКВА" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.289689 , python3 garantpost/garantpost.py "Одинцово" "Москва" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.326247 , python3 ./ruspost/ruspost.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.245502 , python3 bxbery/bxbery.py "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.345717 , php dpd/dpd.php "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.293207 , python3 expressauto/expressauto.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.349979 , php pecom/pecom.php "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.548074 , python3 ponyexpress/ponyexpress.py "Одинцово" "Москва" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.536613 , python3 a-expr/a-expr.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:11 ,   0.587360 , python3 major/major.py "Одинцово" "Москва" "3" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   0.875141 , python3 zest/zest.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   1.024899 , python3 cityexpress/cityepxress.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   1.428944 , python3 ups/ups.py "143000" "101000" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   1.550362 , python3 express/express.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   1.506964 , php vixt/vixt.php "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:12 ,   1.741087 , python3 cdek/cdek.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:13 ,   1.831661 , php delline/delline.php "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:13 ,   2.720102 , python3 cse/cse.py "Одинцово" "Москва" "3" "0.027" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:15 ,   4.128963 , python3 tnt/tnt.py "Одинцово" "143000" "Москва" "101000" "3" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:00:51 ,  40.412539 , php spsr/spsr.php "Одинцово" "Москва" "3" "0.027" "5000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.081124 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.292568 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.289444 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.279882 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.265015 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.344986 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.333517 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.598096 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.601132 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.698796 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:14 ,   0.881697 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:15 ,   1.306424 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:15 ,   1.424286 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:15 ,   1.433070 , php delline/delline.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:16 ,   2.376207 , python3 cse/cse.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:16 ,   2.408463 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:16 ,   2.548972 , python3 cityexpress/cityepxress.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:17 ,   3.031925 , python3 ups/ups.py "630000" "101000" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:17 ,   3.118525 , python3 tnt/tnt.py "новосибирск" "630000" "москва" "101000" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:20 ,   6.186518 , php dpd/dpd.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:08:54 ,  40.420174 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.084681 , php generalexpress/generalexpress.php "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.222532 , python3 bxbery/bxbery.py "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.291273 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.307714 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.300672 , python3 garantpost/garantpost.py "новосибирск" "москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.261131 , python3 expressauto/expressauto.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.346657 , php pecom/pecom.php "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.518321 , python3 a-expr/a-expr.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.610197 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.569798 , python3 major/major.py "новосибирск" "москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.701954 , python3 zest/zest.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:05 ,   0.904049 , php vixt/vixt.php "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:06 ,   1.433642 , python3 express/express.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:06 ,   1.431207 , php delline/delline.php "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:06 ,   1.540622 , python3 ups/ups.py "630000" "101000" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:06 ,   1.719168 , python3 cdek/cdek.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:06 ,   1.909981 , python3 cityexpress/cityepxress.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:07 ,   2.584428 , python3 cse/cse.py "новосибирск" "москва" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:07 ,   2.775327 , python3 tnt/tnt.py "новосибирск" "630000" "москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:11 ,   6.162486 , php dpd/dpd.php "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:10:45 ,  40.357198 , php spsr/spsr.php "новосибирск" "москва" "1" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:17 ,   0.088342 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:17 ,   0.255430 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.402863 , python3 expressauto/expressauto.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.534229 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.531613 , python3 a-expr/a-expr.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.521539 , python3 major/major.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.716127 , python3 ./ruspost/ruspost.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.715607 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.923577 , python3 ups/ups.py "630000" "101000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   0.942270 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:18 ,   1.160563 , python3 garantpost/garantpost.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   1.450220 , python3 express/express.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   1.724953 , python3 cityexpress/cityepxress.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   1.636064 , php delline/delline.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   1.971915 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   2.230707 , python3 cdek/cdek.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:19 ,   2.301679 , python3 cse/cse.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:24 ,   6.388016 , php dpd/dpd.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:12:58 ,  40.396017 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:56 ,   0.026174 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:57 ,   0.130463 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:57 ,   0.447604 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:57 ,   0.436871 , python3 major/major.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:57 ,   0.562026 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:57 ,   0.805951 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:14:58 ,   1.253567 , python3 express/express.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:15:37 ,  40.332493 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:21 ,   0.023348 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:21 ,   0.134509 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:21 ,   0.410486 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:21 ,   0.450983 , python3 major/major.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:22 ,   0.733190 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:22 ,   0.787872 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:19:22 ,   1.304100 , python3 express/express.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 09:20:01 ,  40.520687 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.072756 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.228358 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.436034 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.375621 , python3 expressauto/expressauto.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.479982 , python3 a-expr/a-expr.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.550355 , python3 major/major.py "Новосибирск" "Москва" "1" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.690740 , python3 ./ruspost/ruspost.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.671077 , php delline/delline.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:18 ,   0.698037 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   0.894300 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   1.374129 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   1.608358 , python3 express/express.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   1.565878 , python3 ups/ups.py "630000" "101000" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   1.866543 , python3 cdek/cdek.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:19 ,   1.876122 , python3 cityexpress/cityepxress.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:20 ,   2.407474 , python3 cse/cse.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:24 ,   6.053051 , php dpd/dpd.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 10:59:58 ,  40.534870 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:41 ,   0.023911 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:41 ,   0.138547 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.427058 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.456612 , python3 major/major.py "Новосибирск" "Москва" "1" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.458264 , php delline/delline.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.614687 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.842586 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   0.881504 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   1.126519 , python3 ups/ups.py "630000" "101000" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:00:42 ,   1.267199 , python3 express/express.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:01:22 ,  40.352014 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:19 ,   0.023260 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:19 ,   0.134954 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:19 ,   0.421550 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:19 ,   0.391914 , php delline/delline.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:19 ,   0.536851 , python3 major/major.py "Новосибирск" "Москва" "1" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:20 ,   0.616250 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:20 ,   0.770691 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:20 ,   0.953383 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:20 ,   1.029847 , python3 ups/ups.py "630000" "101000" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:20 ,   1.326935 , python3 express/express.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:03:59 ,  40.452597 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:06 ,   0.024511 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:06 ,   0.129143 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:06 ,   0.436777 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:06 ,   0.370467 , php delline/delline.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:06 ,   0.426083 , python3 major/major.py "Новосибирск" "Москва" "1" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:07 ,   0.596583 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:07 ,   0.704410 , python3 ups/ups.py "630000" "101000" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:07 ,   0.757791 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:07 ,   1.253801 , python3 express/express.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:07 ,   1.324237 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 11:04:46 ,  40.452921 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0" "" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:55 ,   0.108043 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:55 ,   0.315355 , python3 emspost/emspost.py "МОСКВА" "МАХАЧКАЛА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:55 ,   0.289477 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:55 ,   0.357360 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:55 ,   0.525840 , python3 a-expr/a-expr.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.658333 , python3 ./ruspost/ruspost.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.585560 , python3 major/major.py "Москва" "Махачкала" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.735191 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.792590 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.865923 , python3 express/express.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   0.953046 , python3 zest/zest.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   1.048666 , python3 garantpost/garantpost.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:56 ,   1.212888 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:57 ,   1.696157 , php delline/delline.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:57 ,   1.785582 , python3 ups/ups.py "101000" "367000" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:57 ,   1.872473 , python3 cdek/cdek.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:58 ,   2.640340 , python3 cityexpress/cityepxress.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:58 ,   3.401281 , python3 cse/cse.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:08:59 ,   3.798465 , python3 tnt/tnt.py "Москва" "101000" "Махачкала" "367000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:09:00 ,   5.454125 , php dpd/dpd.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:09:35 ,  40.599126 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:14:59 ,   0.025950 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:14:59 ,   0.116639 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:14:59 ,   0.275994 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:14:59 ,   0.423900 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:15:00 ,   0.438052 , python3 major/major.py "Москва" "Махачкала" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:15:00 ,   0.610308 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:15:00 ,   0.684887 , python3 express/express.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:15:00 ,   0.821138 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:15:39 ,  40.412232 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:10 ,   0.033801 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:10 ,   0.142924 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:10 ,   0.305177 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:11 ,   0.429221 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:11 ,   0.568948 , python3 major/major.py "Москва" "Махачкала" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:11 ,   0.658130 , python3 express/express.py "Москва" "Махачкала" "1" "0.002197" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:11 ,   0.709706 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:11 ,   0.912603 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 13:22:51 ,  40.440227 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.002197" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.084074 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.167551 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.210964 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.215184 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.176550 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.397567 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:57 ,   0.497165 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:58 ,   0.837093 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:58 ,   0.843267 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:58 ,   1.003326 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:58 ,   1.477895 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:58 ,   1.543925 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:41:59 ,   1.748253 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-21 16:42:37 ,  40.394449 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:47 ,   0.119942 , php generalexpress/generalexpress.php "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:47 ,   0.215839 , python3 bxbery/bxbery.py "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:47 ,   0.322101 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.542412 , python3 major/major.py "Новосибирск" "Москва" "1" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.567889 , python3 a-expr/a-expr.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.674109 , python3 expressauto/expressauto.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.762796 , python3 ./ruspost/ruspost.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.770051 , python3 ponyexpress/ponyexpress.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.836233 , python3 garantpost/garantpost.py "Новосибирск" "Москва" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   0.769160 , python3 zest/zest.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:48 ,   1.245852 , php pecom/pecom.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:49 ,   1.554752 , python3 ups/ups.py "630000" "101000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:49 ,   1.670209 , python3 express/express.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:49 ,   1.705260 , php delline/delline.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:49 ,   1.936804 , python3 cdek/cdek.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:50 ,   2.389431 , python3 cse/cse.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:51 ,   4.072616 , python3 tnt/tnt.py "Новосибирск" "630000" "Москва" "101000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:53 ,   6.362534 , python3 cityexpress/cityepxress.py "Новосибирск" "Москва" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:54 ,   6.880033 , php vixt/vixt.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:40:55 ,   7.460220 , php dpd/dpd.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 09:41:28 ,  40.556540 , php spsr/spsr.php "Новосибирск" "Москва" "1" "0.000001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:19 ,   0.105565 , php generalexpress/generalexpress.php "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.425564 , python3 expressauto/expressauto.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.496899 , python3 a-expr/a-expr.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.581199 , python3 ponyexpress/ponyexpress.py "Москва" "Новосибирск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.635139 , python3 ./ruspost/ruspost.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.628010 , python3 major/major.py "Москва" "Новосибирск" "1" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.714283 , python3 zest/zest.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   0.952398 , python3 garantpost/garantpost.py "Москва" "Новосибирск" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:20 ,   1.179146 , python3 bxbery/bxbery.py "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   1.374536 , php pecom/pecom.php "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   1.561009 , python3 express/express.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   1.566272 , python3 ups/ups.py "101000" "630000" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   1.604376 , php vixt/vixt.php "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   1.848030 , python3 emspost/emspost.py "МОСКВА" "НОВОСИБИРСК" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   2.208180 , python3 cityexpress/cityepxress.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:21 ,   2.287343 , python3 cdek/cdek.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:22 ,   2.854503 , python3 cse/cse.py "Москва" "Новосибирск" "1" "0.001331" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:23 ,   4.106263 , python3 tnt/tnt.py "Москва" "101000" "Новосибирск" "630000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:42:29 ,   9.726601 , php dpd/dpd.php "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:43:00 ,  40.424333 , php spsr/spsr.php "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 10:43:20 ,  60.592413 , php delline/delline.php "Москва" "Новосибирск" "1" "0.001331" "1111" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.106101 , php generalexpress/generalexpress.php "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.272834 , python3 ./ruspost/ruspost.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.284819 , python3 garantpost/garantpost.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.272744 , python3 expressauto/expressauto.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.308166 , python3 bxbery/bxbery.py "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.341805 , python3 emspost/emspost.py "НОВОСИБИРСК" "МОСКВА" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.496881 , python3 a-expr/a-expr.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:44 ,   0.544861 , python3 ponyexpress/ponyexpress.py "новосибирск" "москва" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:45 ,   0.660891 , python3 major/major.py "новосибирск" "москва" "0.5" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:45 ,   0.727884 , python3 zest/zest.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:45 ,   0.704066 , php pecom/pecom.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:45 ,   1.347764 , python3 cityexpress/cityepxress.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:45 ,   1.357300 , python3 cdek/cdek.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:46 ,   1.591058 , python3 express/express.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:46 ,   1.610800 , php delline/delline.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:46 ,   1.665890 , python3 ups/ups.py "630000" "101000" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:47 ,   3.401332 , python3 cse/cse.py "новосибирск" "москва" "0.5" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:48 ,   4.168688 , python3 tnt/tnt.py "новосибирск" "630000" "москва" "101000" "0.5" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:51 ,   6.903869 , php dpd/dpd.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 16:59:51 ,   6.938828 , php vixt/vixt.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 17:00:24 ,  40.521686 , php spsr/spsr.php "новосибирск" "москва" "0.5" "0.001" "0" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:43 ,   0.070971 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:43 ,   0.245475 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:43 ,   0.326112 , python3 emspost/emspost.py "МОСКВА" "МАХАЧКАЛА" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.662077 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.788041 , python3 a-expr/a-expr.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.842718 , python3 express/express.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.877299 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.918980 , python3 ./ruspost/ruspost.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.940559 , python3 garantpost/garantpost.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   0.913027 , python3 major/major.py "Москва" "Махачкала" "1" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:44 ,   1.083447 , python3 zest/zest.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:45 ,   1.606659 , php delline/delline.php "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:45 ,   1.799584 , python3 ups/ups.py "101000" "367000" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:45 ,   1.902223 , python3 cdek/cdek.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:45 ,   1.956912 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:45 ,   2.307183 , python3 cse/cse.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:46 ,   2.655765 , python3 cityexpress/cityepxress.py "Москва" "Махачкала" "1" "0.001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:47 ,   4.307152 , python3 tnt/tnt.py "Москва" "101000" "Махачкала" "367000" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:49 ,   6.036479 , php dpd/dpd.php "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:22:53 ,   9.882684 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 20:23:24 ,  40.465185 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.001" "1000" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:04 ,   0.070885 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.245114 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.319447 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.496896 , python3 a-expr/a-expr.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.563481 , python3 major/major.py "Москва" "Махачкала" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.645649 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.700332 , python3 ./ruspost/ruspost.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.714937 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.814176 , python3 zest/zest.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:05 ,   0.974872 , python3 express/express.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:06 ,   1.507765 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:06 ,   1.723155 , php delline/delline.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:06 ,   1.932665 , python3 cdek/cdek.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:06 ,   1.964691 , python3 cityexpress/cityepxress.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:06 ,   2.013586 , python3 ups/ups.py "101000" "367000" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:08 ,   3.372621 , python3 cse/cse.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:11 ,   6.481028 , php dpd/dpd.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:45:45 ,  40.443720 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.023249 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.141310 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.408973 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.467876 , python3 major/major.py "Москва" "Махачкала" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.426924 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:58 ,   0.702697 , python3 express/express.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:52:59 ,   0.937806 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:53:00 ,   1.898113 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 22:53:38 ,  40.493415 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:37 ,   0.022844 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:37 ,   0.116820 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:37 ,   0.296291 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:37 ,   0.423133 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:37 ,   0.424609 , python3 major/major.py "Москва" "Махачкала" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:38 ,   0.654625 , python3 express/express.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:38 ,   0.775371 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:01:38 ,   0.880799 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:02:17 ,  40.441359 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.027670 , php generalexpress/generalexpress.php "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.112723 , python3 expressauto/expressauto.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.285782 , php pecom/pecom.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.504567 , python3 major/major.py "Москва" "Махачкала" "1" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.667549 , python3 express/express.py "Москва" "Махачкала" "1" "0.000001" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.803050 , php vixt/vixt.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:34 ,   0.888681 , python3 bxbery/bxbery.py "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:03:40 ,   6.225665 , python3 ponyexpress/ponyexpress.py "Москва" "Махачкала" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log
+2015-06-22 23:04:14 ,  40.463253 , php spsr/spsr.php "Москва" "Махачкала" "1" "0.000001" "1" 2>> /var/www/postscanner/scripts/logs2015-June/log

@@ -1,0 +1,271 @@
+var TableAdvanced = function () {
+    var filterList = [];
+    var staticInit = true;
+	var isFiltersExists = false;//kostyl
+	
+	function log_hdr(txt, append) {
+		return;
+		$('#dbg_test').css('z-index', 10000);
+		$('#dbg_test').css('color', '#000');
+		if (append) {
+			txt = $('#dbg_test').text() + ',\r\n' + txt;
+		}
+		$('#dbg_test').text(txt);
+	}
+	
+    var initTable3 = function () {
+		log_hdr('hello', false);
+        var expandCol = 0, logoCol = 1, compainCol = 2, timeCol = 3, costCol = 4, detailsCol = 5, orderCol=6;
+        var table_id = 'sample_3';
+        var table = $('#' + table_id);
+        if (staticInit) {
+            staticInit = false;
+            $.extend(true, $.fn.DataTable.TableTools.classes, {
+                "container": "btn-group tabletools-dropdown-on-portlet hidden-xs",
+                "buttons": {
+                    "normal": "btn btn-sm default",
+                    "disabled": "btn btn-sm default disabled"
+                },
+                "collection": {
+                    "container": "DTTT_dropdown dropdown-menu tabletools-dropdown-menu"
+                }
+            });  
+            $.fn.dataTable.ext.search.push(
+                function( settings, data, dataIndex ) {
+                    return settings.sTableId != table_id
+                            || (filterList.indexOf(data[compainCol]) >= 0 || !isFiltersExists);
+                }
+            );
+        }
+        /* Formatting function for row details */
+        function fnFormatDetails(oTable, nTr) {
+            var aData = oTable.fnGetData(nTr);
+            var sOut = '<table>';
+            sOut += '<tr><td>Others:</td><td>' + aData[detailsCol] + '</td></tr>';
+            sOut += '</table>';
+
+            return aData[detailsCol];
+        }
+
+        /*
+         * Insert a 'details' column to the table
+         */
+        var nCloneTh = document.createElement('th');
+        nCloneTh.className = "table-checkbox";
+
+        var nCloneTd = document.createElement('td');
+        nCloneTd.innerHTML = '<span class="row-details row-details-close"></span>';
+
+        table.find('thead tr').each(function () {
+            this.insertBefore(nCloneTh, this.childNodes[0]);
+        });
+
+        table.find('tbody tr').each(function () {
+            this.insertBefore(nCloneTd.cloneNode(true), this.childNodes[0]);
+        });
+        
+        jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+            "ru-currency-pre": function ( a ) {
+                var x = a.replace( /,/, "." ).split(' ')[0];
+                return parseFloat( x );
+            },
+         
+            "ru-currency-asc": function ( a, b ) {
+                return a < b ? -1 : a > b;
+            },
+         
+            "ru-currency-desc": function ( a, b ) {
+                return a > b ? -1 : a < b;
+            }
+        } );
+        /*
+         * Initialize DataTables, with no sorting on the 'details' column
+         */
+		 
+		var opts = {
+            "columnDefs": [
+            {
+                "orderable": false,
+                "targets": [expandCol, logoCol, detailsCol,orderCol],
+            }, 
+            {
+                "type": "ru-currency",
+                "targets": [costCol],
+            }, 
+            {
+                "targets": [costCol], 
+                "className": "dt-body-right",
+            },
+            {
+                "targets": [logoCol, expandCol],
+                "className": "hidden-xs",
+            },
+            {
+                "targets": [expandCol],
+                "visible": false,
+            },
+            ],
+            "destroy": true,
+            "order": [
+                [costCol, 'asc']
+            ],
+            "lengthMenu": [
+                [10, 15, 20, -1],
+                [10, 15, 20, "Все"] // change per page values here
+            ],
+            // set the initial value
+            "pageLength": 10,
+
+            "dom": "<'row' <'col-md-12'T>><'row'<'col-md-6 col-sm-12'l><'col-md-3 col-sm-12'><'col-md-3 col-sm-12'f>r><'table-scrollable't><'row'<'col-md-5 col-sm-12'i><'col-md-7 col-sm-12'p>>", // horizobtal scrollable datatable
+
+			"language": {
+                "lengthMenu": "_MENU_ записей",
+                "sInfo": "Показано с _START_ по _END_ из _TOTAL_ результатов",
+                "sSearch": "Поиск"
+            },			
+			
+            "tableTools": {
+                "sSwfPath": "../../assets/global/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf",
+                "aButtons": [/*{
+                    "sExtends": "pdf",
+                    "sButtonText": "PDF"
+                }, {
+                    "sExtends": "csv",
+                    "sButtonText": "CSV"
+                },*/ {
+                    "sExtends": "xls",
+                    "sButtonText": "Excel"
+                }, {
+                    "sExtends": "print",
+                    "sButtonText": "Print",
+                    "sInfo": 'Please press "CTRL+P" to print or "ESC" to quit',
+                    "sMessage": "Generated by DataTables"
+                }]
+            }
+        };
+        var oTable = table.dataTable(opts);
+        
+        $(nCloneTh).html('<span class="row-details row-details-close"></span>')
+                    .find('span')
+                    .click(function () {
+                            $(this).toggleClass("row-details-close").toggleClass("row-details-open");                        
+                            var trs = $('#sample_3 tbody>tr[role="row"]');
+                            for (var i = 0; i < trs.length; ++i) {
+                                var nTr = trs[i];
+                                var row_details = $(nTr).find('.row-details')
+                                if ($(this).hasClass('row-details-open')) {  
+                                    row_details.addClass("row-details-open").removeClass("row-details-close");
+                                    oTable.fnOpen(nTr, fnFormatDetails(oTable, nTr), 'details');
+                                } else {
+                                    row_details.addClass("row-details-close").removeClass("row-details-open");
+                                    oTable.fnClose(nTr);          
+                                }
+                            }
+                        });
+        oTable.DataTable().on('draw', function () {
+            if ($('#sample_3 tbody>tr[role="row"]').length != $('#sample_3 .row-details-open').length) {
+                $(nCloneTh).find('span').addClass("row-details-close").removeClass("row-details-open");
+            } else {
+                $(nCloneTh).find('span').addClass("row-details-open").removeClass("row-details-close");
+            }
+        });
+		log_hdr('bctr', false);
+        var tableWrapper = $('#sample_3_wrapper'); // datatable creates the table wrapper by adding with id {your_table_jd}_wrapper
+        var filterSelect = tableWrapper.find("div:nth-child(2) > div:nth-child(2)")
+                    .append($('#compainsList').removeClass('hidden').remove())
+                    // .append('<select multiple="multiple" class="selectpicker"><option value="1">1</option><option value="2">2</option></select>')
+                    .find('select');
+		log_hdr('select found3');
+		log_hdr(filterSelect.length, true);
+		try {
+			filterSelect.selectpicker({
+                        iconBase: 'fa',
+                        tickIcon: 'fa-check',
+                        countSelectedText: '{0} из {1} выбрано',
+                    });
+		} catch (e) {
+			log_hdr('selectpicker throws error', true);
+		}
+		log_hdr('after selectpicker call', true);
+		
+		try {
+		filterSelect.change(function () {
+								log_hdr('in change', true);
+								isFiltersExists = true;
+                                var optionToValues = function (arr) {
+                                    return $.map(arr, function (x) { return $(x).val(); });
+                                }
+								var _self = this;
+                                var selectedList = optionToValues($(_self).find(':selected'));
+                                if (selectedList.indexOf("Все") >= 0) {
+                                    if (filterList.indexOf("Все") < 0) {
+                                        selectedList = optionToValues($(_self).find('option').attr('selected', 'selected'));
+                                    } else if ($(_self).find(':selected').length != $(_self).find('option').length) {
+                                        $($(_self).find('option')[0]).removeAttr('selected');
+                                        selectedList = optionToValues($(_self).find(':selected'));
+                                    }
+                                } else if (selectedList.indexOf("Все") < 0 && filterList.indexOf("Все") >= 0) {
+                                    $(_self).find('option').removeAttr('selected');
+                                    selectedList = [];
+                                }
+                                if ($(_self).find(':selected').length == $(_self).find('option').length - 1
+                                    && $($(_self).find('option')[0]).attr('selected') == undefined) {
+                                    $($(_self).find('option')[0]).attr('selected', 'selected');
+                                    selectedList = optionToValues($(_self).find(':selected'));
+                                }
+								
+								try {
+									$('.selectpicker').selectpicker('refresh');
+								} catch (e) { }
+                                filterList = selectedList;
+                                table.DataTable().draw();
+								log_hdr('after refresh', true);
+                                
+                                
+                                var allSelected = selectedList.indexOf("Все") >= 0;
+                                var countSeleted = $(_self).find(':selected').length - allSelected;
+                                var countTotal = $(_self).find('option').length - 1;
+                                var buttonText = countSeleted ? countSeleted + ' из ' + countTotal + ' выбрано' : 'Ничего не выбрано';
+                                $('.company-list-button > span:nth-child(1)').text(buttonText);
+                            }).change();
+		} catch (e) {
+			log_hdr('change exc ', true);
+		}
+		log_hdr('after change', true);
+        tableWrapper.find('.dataTables_length select').select2(); // initialize select2 dropdown
+
+        /* Add event listener for opening and closing details
+         * Note that the indicator for showing which row is open is not controlled by DataTables,
+         * rather it is done here
+         */
+        table.on('click', ' tbody td .row-details', function () {
+            var nTr = $(this).parents('tr')[0];
+            if (oTable.fnIsOpen(nTr)) {
+                /* This row is already open - close it */
+                $(this).addClass("row-details-close").removeClass("row-details-open");
+                oTable.fnClose(nTr);
+            } else {
+                /* Open this row */
+                $(this).addClass("row-details-open").removeClass("row-details-close");
+                oTable.fnOpen(nTr, fnFormatDetails(oTable, nTr), 'details');
+            }
+        });
+        
+        
+    }
+
+
+    return {
+
+        //main function to initiate the module
+        init: function () {
+
+            if (!jQuery().dataTable) {
+                return;
+            }
+            initTable3();
+        }
+
+    };
+
+}();

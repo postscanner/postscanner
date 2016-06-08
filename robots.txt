@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /new
+Disallow: /new2
+Allow: / 
