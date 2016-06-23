@@ -53,9 +53,11 @@
 } */
 @media (min-width: 850px) {
     .toCity, .fromCity {
-        width: 196px;
+        /* width: 196px; */
+        width: 100%;
     }
     #length, #width, #height {
-        width: 50px;
+        /* width: 50px; */
+        width: 100%;
     }
 }

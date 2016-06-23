@@ -1,14 +1,10 @@
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if !IE]><!-->
 <html lang="en">
-<!--<![endif]-->
-
+    
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>Поиск дешевой доставки | Агрегатор экспресс-доставки Postscanner | почтовые отправления </title>
+  <title>Самая выгодная доставка | Postscanner | почтовые отправления </title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -50,7 +46,7 @@
   <link href="./css/loading.css" rel="stylesheet">
   <link href="./css/progress_bar.css" rel="stylesheet">
   <link href="./assets/admin/pages/scripts/form-validation.js" rel="stylesheet">
-
+  <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">  -->
   <!-- Theme styles END -->
 
     <link href="select2/select2.css" rel="stylesheet"/>
@@ -71,18 +67,12 @@
 <link href="./assets/global/css/components.css" rel="stylesheet" type="text/css"/>
 <link href="./assets/global/css/plugins.css" rel="stylesheet" type="text/css"/>
 
-
-
-
-
-
-
 </head>
-<!-- Head END -->
+<!-- Head ENDS -->
 
-<!-- Body BEGIN -->
+<!-- Body BEGINS -->
 <body class="corporate">
-    <!-- <div id="loading" style="display: none">
+    <div id="loading" style="display: none">
         <div class="page-spinner-bar" ng-spinner-bar="">
             <div class="bounce1"></div>
             <div class="bounce2"></div>
@@ -92,653 +82,358 @@
         <div class="blackout" style="height: 100%; width: 100%; z-index: 1000; display: block; position: fixed; background: rgb(0,0,0); opacity: 0.5;">
         </div>
     </div>
-    -->
     
-    <?php require('header.php'); ?>
-    <!-- BEGIN SLIDER -->
-    <style>
-        .filter-wrapper
-        {
-            background: url("./img/bg.jpg");
-            background-size:   cover;                      /* <------ */
-            background-repeat: no-repeat;
-            background-position: center center;
-        }
-        .fullwidthabnner
-        {
-            height:100%;
-            max-width:1140px;
-            margin-left:auto;
-            margin-right:auto;
-            width: 100%;  opacity: 1; visibility: inherit;
-            
-            padding-top:30px;
-            padding-bottom:3%;
-        }
-        #dbg_test
-        {
-            margin-bottom:15px;
-            color: #ffffff;
-            font: 300 47px/66px "Open Sans",sans-serif;
-            text-transform: uppercase;
-        }
-        .filter .subtitle
-        {
-            background: #3b99cf none repeat scroll 0 0;
-            color: #fafafa;
-            font: 400 22px/25px "Open Sans",sans-serif;
-            padding: 3px 5px;
-            padding-bottom:2px;
-            text-transform: uppercase;
-        }
-        .filter .filter_text
-        {
-            max-width:460px;
-            color: #ffffff;
-            font-size: 18px;
-            margin-top:13px;
-            letter-spacing: 0;
-            line-height: 25px;
-        }
-        .select2-container
-        {
-            margin-top:-5px;
-            text-align:left;
-            
-            display:inline-block;
-        }
-        .main_filter_form
-        {
-            margin-top:17px;
-            background: url("./img/background_transp.png");
-            padding:10px;
-            -moz-border-radius: 10px; /* закругление для старых Mozilla Firefox */
-            -webkit-border-radius: 10px; /* закругление для старых Chrome и Safari */
-            -khtml-border-radius:10px; /* закругл. для браузера Konquerer системы Linux */
-            border-radius: 10px; /* закругление углов для всех, кто понимает */
-        }
-        .filter .white_link
-        {
-            color: white;
-            text-decoration: underline !important;
-            font-size:	18px;
-            margin-right:10px;
-            display:inline-block;
-            margin-top:8px;
-            margin-left:13px;
-            margin-bottom:7px;
-        }
-        .filter .main_filter_form input
-        {
-            border: 1px solid #dbdbdb;
-            border-radius: 0;
-            box-shadow: none;
-            color: #777;
-            font: 14px Arial,sans-serif;
-            padding: 6px 12px;
-            height: 34px;
-        }
-        .filter .main_filter_form .filter_line
-        {
-            max-width:850px;
-            margin-bottom:10px;
-           
-        }
-         .filter .main_filter_form  div.filter_second_line 
-        {
-            max-width:955px;
-            text-align: right;
-        }
-        .toCity, .fromCity {
-            display: inline-block;
-        }
-        .preloader
-        {
-            background: url("/img/preloader.gif") repeat scroll 0 0;
-            display: inline-block;
-            height: 25px;
-            width: 25px;
-            margin-left:15px;
-            margin-bottom:15px;
-        }
-    </style>
-    <div class="page-slider margin-bottom-40 filter-wrapper">
-     
-        <div class="fullwidthabnner filter"  >
-            <div id="dbg_test">
-                Найди лучшие условия доставки!
-            </div>
-            <span class="subtitle">
-                Агрегатор экспресс-доставки
-            </span>
-              <div class="filter_text">
-                Сравни стоимость услуг различных служб доставки!
-              
-                Удобно, бесплатно и без регистрации.
-              </div>
-              
-              <div class="main_filter_form">
-                <div class="filter_first_line filter_line">
-                    
-                    <a style="margin-left:0px;" data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="top" data-content='В поле "ОТКУДА" начните вводить название города отправления и выберите нужный из списка'  href="javascript:;" class="white_link" id="notific8_from" tabindex='-1'>Откуда:</a>
-                    <div class="fromCity" id="fromCity" tabindex='0'></div>
-                    
-                    <a href="javascript:;" data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="top" data-content='В поле "КУДА" начните вводить название города назначения и выберите нужный из списка'  id="notific8_to"  class="white_link" tabindex='-1'>Куда:</a>
-                    <div class="toCity" id="toCity"></div>
-                    
-                    
-                        <a href="javascript:;" data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="top" data-content='В поле "ВЕС" введите ориентировочную массу посылки в килограммах'  id="notific8_weight"  class="white_link" tabindex='-1'>Вес:</a> 
-                        <input type="text" class="" required placeholder="Килограммы" id="weight" name="Weight"/>
-                   
-                </div>
-                
-                <div class="filter_second_line filter_line">
-                    
-                    
-                    <a href="javascript:;"  data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="bottom" data-content='В полях "ДЛИНА", "ШИРИНА" и "ВЫСОТА" введите размеры посылки в сантиметрах'   id="notific8_size_1" class="white_link"  tabindex='-1'>Длина:</a> 
-                    <input type="text" class="" placeholder="См" id="length" name="length"/>
-                  
-                    <a href="javascript:;"  data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="bottom" data-content='В полях "ДЛИНА", "ШИРИНА" и "ВЫСОТА" введите размеры посылки в сантиметрах'   id="notific8_size_2" class="white_link"  tabindex='-1'>Ширина:</a> 
-                    <input type="text" class="" placeholder="См" id="width" name="width"/>
-                  
-                    <a href="javascript:;"  data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="bottom" data-content='В полях "ДЛИНА", "ШИРИНА" и "ВЫСОТА" введите размеры посылки в сантиметрах'   id="notific8_size_3"  class="white_link" tabindex='-1'>Высота:</a> 
-                    <input type="text" class="" placeholder="См" id="height" name="height"/>
-                  
-                    <a href="javascript:;"   data-toggle="popover" data-trigger="focus" data-container="body"  data-placement="bottom" data-content='В поле "СТОИМОСТЬ" введите страховую стоимость посылки'  id="notific8_price"  class="white_link" tabindex='-1'>Стоимость:</a> 
-                    <input type="text" class="" placeholder="Страховая стоимость, руб." id="value" name="value"/>
-                    
-                    <a data-trigger='manual'  data-content="Заполнены не все поля, либо заполнены некорректно"  data-original-title="Ошибка" style="  margin-left: 41px; " id="sendRequest" href="#" class="btn btn-primary"><font size="4" color="white"><i class="fa fa-envelope-o fa margin-right-10"></i>поиск</font></a>
-                    
-                </div>
-				
-              
-
-            </div>           
-            <div class="clear"></div>
-               
-          
+    <!-- HEADER STARTS HERE -->
+    <div class="container-fluid" id="calculate">   
+        <div class="row">
+            <?php require('header.php'); ?>
+            <img src="img/design_new/post_line.jpg" class="img-responsive" width="100%" height="7px" />
         </div>
-      
-    </div>
-    <!-- END SLIDER -->
-
-    <div class="main">
-      <div class="container">
-        
-        
-     
-        <!-- BEGIN CONTAINER -->
-        <div class="page-container">
-            <!-- BEGIN CONTENT -->
-            
-            <div class="page-content">
-                <!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
-                <div class="modal fade" id="portlet-config" tabindex=x="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
-                                <h4 class="modal-title">Modal title</h4>
-                            </div>
-                            <div class="modal-body">
-                                 Widget settings form goes here
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn blue">Save changes</button>
-                                <button type="button" class="btn default" data-dismiss="modal">Close</button>
-                            </div>
-                        </div>
-                        <!-- /.modal-content -->
+    </div>    
+    <!-- HEADER ENDS HERE -->
+    
+    <!-- MAIN FORM BEGINS -->
+    <div class="main_frame">    
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 block-padded">
+            <img src="img/design_new/stamp1.png" width="300px" class="img-responsive center-block" />
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 block-padded-bottom text-center">
+            <h1><span class="post_color">Найти самую выгодную доставку!</span></h1>
+            <div class="design_new_main_form">
+                <div class="row block-padded-sides block-padded-bottom block-padded-top">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <h4 class="text-left">Куда</h4>
+                        <div class="toCity" id="toCity"></div>
                     </div>
-                    <!-- /.modal-dialog -->
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <h4 class="text-left" >Откуда</h4>
+                        <div class="fromCity" id="fromCity" tabindex='0'></div>
+                    </div>
                 </div>
-                <!-- /.modal -->
-                <!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->
-                <!-- BEGIN PAGE CONTENT-->
-                <div class="progress-bar_ blue stripes hidden">
-                    <span style="width: 1%"></span>
-                    <br />
-                    <p style="color:grey;">Идет поиск...</p>
-                </div> 
+                <div class="row block-padded-sides block-padded-bottom">          
+                    <div class="col-xs-12 col-sm-3 col-md-3"> 
+                        <h4 class="text-left">Вес посылки</h4>
+                        <input type="text" class="form-control input-lg" required placeholder="кг" id="weight" name="Weight" />
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3">
+                        <h4 class="text-left">Длина</h4>
+                        <input type="text" class="form-control input-lg" placeholder="cм" id="length" name="length" />
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3">
+                        <h4 class="text-left">Ширина</h4> 
+                        <input type="text" class="form-control input-lg" placeholder="cм" id="width" name="width" />
+                    </div>
+                    <div class="col-xs-12 col-sm-3 col-md-3">
+                        <h4 class="text-left">Высота</h4>
+                        <input type="text" class="form-control input-lg" placeholder="cм" id="height" name="height" />
+                    </div>       
+                </div>
+                <div class="row block-padded-bottom block-padded-sides"> 
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <h4 class="text-left">Страховая стоимость</h4>
+                        <input type="text" class="form-control input-lg" placeholder="руб" id="value" name="value" />
+                    </div>           
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <h4 class="text-left">&nbsp;</h4>
+                        <a data-trigger='manual' data-content="Заполнены не все поля, либо заполнены некорректно" data-original-title="Ошибка" id="sendRequest" href="#" class="btn btn-default btn-lg btn-block">ПОИСК</a>
+                    </div>
+                </div>
+            </div>  
+        </div> <!-- RIGHT COLUMN OF MAIN_FRAME ENDS -->  
+    </div> 
+    <!-- MAIN FORM ENDS -->
+    
+    <img src="img/design_new/post_line.jpg" class="img-responsive" width="100%" height="7px" />
+
+<div class="container-fluid">
+    
+    <!-- REGISTRATION BLOCK BEGINS -->
+    <div class="row">
+        <div class="block_registration block-padded text-center">
+        <h1 class="post_color">Хотите стать нашим постоянным клиентом?</h1>
+        <h3 class="post_color block-padded-bottom">Вы сможете пользоваться всеми преимуществами нашего сервиса!</h3>
+            <a href="#" class="btn btn-default btn-lg">Зарегистрироваться</a>
+        </div>
+    </div>
+    <!-- REGISTRATION BLOCK ENDS -->
+    
+    <!-- POSTSCANNER ALGORYTHM DESCRIPTION STARTS -->
+    <div class="row">
+        <div class="block_how_it_works block-padded">
+            <div class="white_based center-block text-center">
+                <h1>Как работает Postscanner?</h1>
+                <h3 class="block-padded-bottom">Всего три шага!</h3>
                 <div class="row">
-                    <style>
-                        .zakazBtTh
-                        {
-                            width:100px;
-                        }
-                    </style>  
-                    <!--<span class="preloader hidden" id="preloader"></span>-->
-                    
-                         
-                    <div class="col-md-12" id="response"></div>
-                    <div class="col-md-12 hidden" id="response-new">
-                    
-                        <div class='portlet box blue-madison'>
-                            <div class='portlet-title'>
-                            	<div class="caption">
-                            		<i class="fa fa-envelope"></i>Отправление <span class="city-from"> <?php echo $fromCity ?></span> - <span class="city-to"><?php echo $toCity ?></span>.     Вес <span class="weight"><?php echo $weight ?> </span> кг
-                            	</div>
-                            </div>
-                            <div class="portlet-body">
-                            	
-                                <table class="table-res table table-striped table-bordered table-hover" id="sample_4">
-                                	<thead>
-                                	<tr>
-                                		<th>
-                                		</th>
-                                		<th>
-                                			 Компания
-                                		</th>
-                                		<th>
-                                			 Срок<span class="hidden-xs"> доставки</span>
-                                		</th>
-                                		<th>
-                                			 Стоимость
-                                		</th>
-                                        	
-                                		<th>
-                                			 Условия доставки
-                                		</th>
-                                        <th>
-                                			
-                                		</th>						
-                                	</tr>
-                                	</thead>
-                                	<tbody> 
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div> 
-                        <select class="comp_sel selectpicker hidden" data-style="company-list-button"  data-selected-text-format="none" id="compainsList" multiple="multiple">
-                            <option selected="selected">Все</option>
-                        </select>            
-                        <!-- content receiving using search.php via ajax (see custom.js) -->
+                    <div class="col-xs-12 col-sm-4 col-md-4 block-padded-bottom">
+                        <h4>Запрос</h4>
+                        <p>Вы вносите основные параметры посылки: место отправления, место назначения, габаритные размеры и вес посылки, а так же страховую стоимость.</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 block-padded-bottom">
+                        <h4>Обработка</h4>
+                        <p>Postscanner собирает предложения от более чем 40 служб экспресс-доставки.</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 block-padded-bottom">
+                        <h4>Результат</h4>
+                        <p>Вы получаете лучшие предложения по доставке вашей посылки в форме удобной таблицы, с указанием стоимости, сроков и описанием условий доставки.</p>
                     </div>
                 </div>
-                <!-- END PAGE CONTENT-->
+            </div>
+        </div>
+    </div>
+    <!-- POSTSCANNER ALGORYTHM DESCRIPTION ENDS -->
+    
+    <!-- POSTSCANNER VIDEO BEGINS -->
+    <div class="row" id="anchor_video">
+        <div class="block_video block-padded block-padded-bottom text-center">
+        <h1>Как пользоваться сервисом Postscanner?</h1>
+        <h3 class="block-padded-bottom">Мы создали видео для вашего удобства!</h3>
+            <div class="col-xs-12 col-sm-12 col-md-12 block-padded-bottom text-center">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="420" height="236" src="https://www.youtube.com/embed/fidiItkLAss" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- POSTSCANNER VIDEO ENDS -->
+    
+    <!-- FEEDBACK CAROUSEL BEGINS -->
+    <div class="row" id="anchor_feedback">
+        <div class="block_feedback block-padded text-center">
+            <div class="white_based center-block">
+                <h1>Что о нас говорят?</h1>
+                <h3 class="block-padded-bottom">Отзывы наших довольных клиентов!</h3>
+                  <div class='row'>
+                    <div class='col-md-12'>
+                      <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                        <!-- Bottom Carousel Indicators -->
+                        <ol class="carousel-indicators">
+                          <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+                          <li data-target="#quote-carousel" data-slide-to="1"></li>
+                          <li data-target="#quote-carousel" data-slide-to="2"></li>
+                          <li data-target="#quote-carousel" data-slide-to="3"></li>
+                        </ol>
+
+                        <!-- Carousel Slides / Quotes -->
+                        <div class="carousel-inner">
+                          <!-- Quote 1 -->
+                          <div class="item active">
+                            <blockquote>
+                              <div class="row">
+                                <div class="col-sm-3 text-center">
+                                  <img class="img-circle" src="img/design_new/feedback_Elena.jpg" style="width: 100px;height:100px;">
+                                </div>
+                                <div class="col-sm-9">
+                                  <p>Отличный сервис! Теперь можно отправить груз или документы по выгодной цене, а еще рассчитать стоимость доставки и выяснить, сколько стоит посылка у разных компаний на одном сайте. Очень удобный ресурс, помогает экономить время и деньги.</p>
+                                  <small>Елена. Краснодарский Край</small>
+                                </div>
+                              </div>
+                            </blockquote>
+                          </div>
+                          <!-- Quote 2 -->
+                          <div class="item">
+                            <blockquote>
+                              <div class="row">
+                                <div class="col-sm-3 text-center">
+                                  <img class="img-circle" src="img/design_new/feedback_Petr.jpg" style="width: 100px;height:100px;">
+                                </div>
+                                <div class="col-sm-9">
+                                  <p>Сильно переживал, что посылка в Москву не прибудет к определенному сроку. Выяснил, что можно отследить посылку и за несколько секунд узнал на сайте, где сейчас находится отправление. Спасибо за помощь!</p>
+                                  <small>Петр. Ростов-на-Дону</small>
+                                </div>
+                              </div>
+                            </blockquote>
+                          </div>
+                          <!-- Quote 3 -->
+                          <div class="item">
+                            <blockquote>
+                              <div class="row">
+                                <div class="col-sm-3 text-center">
+                                  <img class="img-circle" src="img/design_new/feedback_Alexandr.jpg" style="width: 100px;height:100px;">
+                                </div>
+                                <div class="col-sm-9">
+                                  <p>Отличная идея. Смог найти намного более интересные опции по доставке чем обычно. А главное просто, быстро и бесплатно. Теперь получится существенно сэкономить на доставке!</p>
+                                  <small>Александр Кочетков. Москва</small>
+                                </div>
+                              </div>
+                            </blockquote>
+                          </div>
+                          <!-- Quote 4 -->
+                          <div class="item">
+                            <blockquote>
+                              <div class="row">
+                                <div class="col-sm-3 text-center">
+                                  <img class="img-circle" src="img/design_new/feedback_Dmitriy.jpg" style="width: 100px;height:100px;">
+                                </div>
+                                <div class="col-sm-9">
+                                  <p>Спасибо postscanner что помог мне сэкономить 3000р. Я отправил посылку родителям не за 4000 как привык а всего за 1000 рублей, и без потери в скорости и сервисе. Postscanner супер сервис! Очень помог!</p>
+                                  <small>Дмитрий Парамонов. Оренбург</small>
+                                </div>
+                              </div>
+                            </blockquote>
+                          </div>
+                        </div>
+
+                        <!-- Carousel Buttons Next/Prev -->
+                        <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                        <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+                      </div>                          
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <!-- FEEDBACK CAROUSEL ENDS -->
+    
+        <!-- ACCORDION QUESTIONS BEGINS  -->
+        <div class="row">
+            <div class="block_faq block-padded text-center">
+                <h1>У вас остались вопросы?</h1>
+                <h3 class="block-padded-bottom">Найдите ваш вопрос в списке или задайте свой!</h3>
+                    <div class="col-xs-12 col-sm-12 col-md-12 block-padded-bottom">
+                        <div class="panel-group text-left" id="accordion">
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h4 class="panel-title post_color">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                                Чем Postscanner полезен людям?</a>
+                              </h4>
+                            </div>
+                            <div id="collapse1" class="panel-collapse collapse in">
+                              <div class="panel-body">Postscanner поможет вам за несколько секунд найти наиболее оптимальный вариант экспресс-доставки посылки по России, что позволит отправить документы, груз или письмо и при этом существенно сэкономить. Бесплатный поиск с Postscanner – это быстро, просто и удобно!</div>
+                            </div>
+                          </div>
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h4 class="panel-title post_color">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                                Чем Postscanner полезен почтовым операторам?</a>
+                              </h4>
+                            </div>
+                            <div id="collapse2" class="panel-collapse collapse">
+                              <div class="panel-body">Postscanner предоставляет возможность рассказать о новых сервисах, направлениях почтовых отправлений и актуальных акциях по доставке посылок. Делайте ваши лучшие предложения по экспресс-доставке посылок на Postscanner и вместе мы поможем людям стать ближе.</div>
+                            </div>
+                          </div>
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h4 class="panel-title post_color">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+                                Postscanner для веб-сервисов</a>
+                              </h4>
+                            </div>
+                            <div id="collapse3" class="panel-collapse collapse">
+                              <div class="panel-body">Виджет от Postscanner поможет предоставить вашим клиентам различные условия экспресс-доставки по России. В результате доставка посылок становится более выгодной, что позволяет клиентам сделать выбор в вашу пользу.</div>
+                            </div>
+                          </div>
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h4 class="panel-title post_color">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                                В чем преимущество сервиса Postscanner?</a>
+                              </h4>
+                            </div>
+                            <div id="collapse4" class="panel-collapse collapse">
+                              <div class="panel-body">В большинстве случаев люди предпочитают обратиться либо в Почту России, либо в компанию с мировым именем. Однако практика показывает, что зачастую стоимость услуг даже среди мировых лидеров может отличаться в несколько раз, а услуги локальных служб экспресс-доставки ничем не хуже но обходятся значительно дешевле.Что бы подобрать оптимальный вариант экспресс-доставки по России необходимо потратить массу времени. Postscanner позволит решить эту проблему за несколько секунд. Поиск с Postscanner – это быстро, просто и бесплатно.</div>
+                            </div>
+                          </div>
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h4 class="panel-title post_color">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                                О работе сервиса Postscanner в двух словах</a>
+                              </h4>
+                            </div>
+                            <div id="collapse5" class="panel-collapse collapse">
+                              <div class="panel-body">Вы вносите основные параметры вашей посылки, а Postscanner подбирает все возможные варианты экспресс-доставки по России от более чем 40 ведущих служб экспресс-доставки. Используя результаты поиска вы можете выбрать лучшее предложение по соотношению цена/ качество / скорость доставки и заказать обратный звонок от службы экспресс-доставки, либо вызвать курьера.</div>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <!-- ACCORDION QUESTIONS ENDS  -->
+    
+        <!-- DECOR POST LINE BEGINS  -->
+        <div class="row block-padded-bottom">    
+            <img src="img/design_new/post_line.jpg" class="img-responsive" width="100%" height="7px" />
+        </div>
+        <!-- DECOR POST LINE ENDS  -->
+    
+        <!-- FORM_QUESTIONS BEGINS  --> 
+        <div class="row" id="anchor_question">
+            <div class="block_questions">
+                <div class="col-md-4 col-md-offset-4 block-padded-bottom">
+                <h1 class="block-padded-bottom text-center">Напишите нам</h1>
+                    <form class="form-horizontal text-left" method="post" name="form_question">
+                      <div class="form-group">
+                          <div class="col-sm-12">
+                            <label for="form_question_name">Имя</label> 
+                                <input type="text" class="form-control" id="form_question_name" placeholder="" />
+                            </div>
+                      </div>
+                      <div class="form-group">
+                          <div class="col-sm-12">
+                            <label for="form_question_email">Email</label>
+                                <input type="email" class="form-control" id="form_question_email" placeholder="" />
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          <div class="col-sm-12">
+                            <label for="form_question_question">Ваш комментарий</label>
+                              <textarea class="form-control" name="form_question_textarea" placeholder=""></textarea>
+                          </div>
+                      </div>
+                      <button type="submit" class="btn btn-default btn-lg center-block">Отправить</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- FORM_QUESTIONS ENDS  -->
+    
+        <!-- CALCULATION BEGINS  -->
+        <div class="row">
+            <div class="block_calculate block-padded block-padded-bottom text-center">
+            <h1>Хотите знать стоимость доставки Вашего груза?</h1>
+                <h3 class="block-padded-bottom">Вам просто надо указать параметры груза!</h3>    
+                    <a href="#calculate" class="btn btn-default btn-lg">Рассчитать</a>
+            </div>
+        </div>
+        <!-- CALCULATION ENDS  -->
+    
+        <!-- PARTNERS BEGIN  -->
+        <div class="row">
+            <div class="block_partners_frame our-clients block-padded block-padded-sides text-center">
+            <h1>Кто наши партнеры?</h1>
+                <h3 class="block-padded-bottom">Мы работаем с более чем 40 перевозчиками!</h3>
+                <div class="col-md-8 col-md-offset-2 block-padded-bottom">
+                    <div class="owl-carousel owl-carousel6-brands">
+                        <?php require('generate_footer.php') ?>
+                    </div>
+                </div>
+            </div>
+        <!-- PARTNERS END -->
             
-        
-            <!-- END CONTENT -->
-            <!-- BEGIN QUICK SIDEBAR -->
-            <!--Cooming Soon...-->
-            <!-- END QUICK SIDEBAR -->
-        </div>
-        <!-- END CONTAINER -->
     </div>
-       <!-- BEGIN BLOCKQUOTE BLOCK -->   
-        <div class="row quote-v1 margin-bottom-30">
-          <div class="col-md-9">
-            <span>Postscanner - поиск по более чем 40 службам доставки</span>
-          </div>
-<!--          <div class="col-md-3 text-right">
-            <a id="sendRequest" href="#" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Поиск</a>
-          </div>
--->
-<!--          <div class="col-md-3 text-right">
-            <a id="sendRequest-1" href="#" class="btn-transparent"><i class="fa fa-search margin-right-10"></i>Трекинг посылки</a>
-          </div>
- -->       </div>
-    <!-- BEGIN SERVICE BOX -->   
-        <div class="row service-box margin-bottom-40 hide-on-request-performed">
-          <div class="col-md-4 col-sm-4">
-            <div class="service-box-heading">
-              <em><i class="fa fa-user"></i></em>
-              <span>Пользователям</span>
-            </div>
-            <p>Postscanner поможет вам за несколько секунд найти наиболее оптимальный
-вариант экспресс-доставки посылки по России, что позволит отправить
-документы, груз или письмо и при этом существенно сэкономить.
-Бесплатный поиск с Postscanner – это быстро, просто и удобно!</p>
-          </div>
-          <div class="col-md-4 col-sm-4">
-            <div class="service-box-heading">
-              <em><i class="fa fa-envelope"></i></em>
-              <span>Почтовым операторам</span>
-            </div>
-            <p>Postscanner предоставляет возможность рассказать о новых сервисах,
-направлениях почтовых отправлений и актуальных акциях по доставке
-посылок. Делайте ваши лучшие предложения по экспресс-доставке посылок
-на Postscanner и вместе мы поможем людям стать ближе.</p>
-          </div>
-          <div class="col-md-4 col-sm-4">
-            <div class="service-box-heading">
-              <em><i class="fa fa-laptop"></i></em>
-              <span>Веб-сервисам</span>
-            </div>
-            <p>Виджет от Postscanner поможет предоставить вашим клиентам различные
-условия экспресс-доставки по России. В результате доставка посылок
-становится более выгодной, что позволяет клиентам сделать выбор в вашу
-пользу.</p>
-          </div>
-        </div>
-        <!-- END SERVICE BOX -->
+</div>
 
-        <!-- BEGIN RECENT WORKS -->
-        <div class="row recent-work margin-bottom-40">
-          <div class="col-md-3">
-            <h2><a href="news.php">Новости сайта</a></h2>
-            <p>Мы внимательно следим за самыми актуальными и интересными событиями в области экспресс-доставки и всегда рады рассказать о них вам.</p>
-          </div>
-		  
-          <div class="col-md-9">
-            <div class="owl-carousel owl-carousel3">
-
-			<?php 
-              foreach ($all_news as $news) {
-                $link = 'news.php?id='.$news->id;
-                $picture = '/img/news/'.$news->id;
-                $usePicture = file_exists($_SERVER['DOCUMENT_ROOT'].$picture);
-            ?>
-
-              <div class="recent-work-item">
-                <em>
-                  <?php if ($usePicture) {?>
-                  <img src="<?php echo $picture ?>" alt="Заголовок новости" align = "center" height="203" >
-				  <?php }?>
-                  <a href="<?php echo $link ?>" title="Читать полностью"><i class="fa fa-link"></i></a>
-<!--                  <a href="./<?php echo $picture ?>" class="fancybox-button" title="Увеличить" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
--->                </em>
-                <a class="recent-work-description" href="<?php echo $link ?>">
-                  <strong><?php echo $news->title ?></strong>
-				</a>
-              </div>
-     		  <?php }?>
-			  
-
-
-			  </div>       
-          </div>
-        </div>   
-        <!-- END RECENT WORKS -->
-        
-
-        <!-- BEGIN TABS AND TESTIMONIALS -->
-        <div class="row mix-block margin-bottom-40 hide-on-request-performed">
-          <!-- TABS -->
-          <div class="col-md-7 tab-style-1">
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#tab-1" data-toggle="tab">Как это работает</a></li>
-              <li><a href="#tab-2" data-toggle="tab">Наши преимущества</a></li>
-            </ul>
-            <div class="tab-content">
-              <div class="tab-pane row fade in active" id="tab-1">
-                <div class="col-md-3 col-sm-3">
-                    <img class="img-responsive" src="./assets/frontend/pages/img/photos/img7.jpg" alt="">
-                    </img>
-                </div>
-                <div class="col-md-9 col-sm-9">
-                  <p class="margin-bottom-10">Вы вносите основные параметры вашей посылки, а  Postscanner подбирает  все возможные варианты экспресс-доставки по России от более чем 40 ведущих служб экспресс-доставки. 
-Используя результаты поиска вы можете выбрать лучшее предложение по соотношению цена/ качество / скорость доставки и заказать обратный звонок от службы экспресс-доставки, либо вызвать курьера.</p>
-                </div>
-              </div>
-              <div class="tab-pane row fade" id="tab-2">
-                <div class="col-md-9 col-sm-9">
-                  <p>В большинстве случаев люди предпочитают обратиться либо в Почту России, либо в компанию с мировым именем. Однако практика показывает, что зачастую стоимость услуг даже среди мировых лидеров может отличаться в несколько раз, а услуги локальных служб экспресс-доставки ничем не хуже но обходятся значительно дешевле.Что бы подобрать оптимальный вариант экспресс-доставки по России необходимо потратить массу времени. Postscanner позволит решить эту проблему за несколько секунд. Поиск с Postscanner – это быстро, просто и бесплатно. </p>
-                </div>
-                <div class="col-md-3 col-sm-3">
-                    <img class="img-responsive" src="./assets/frontend/pages/img/photos/img10.jpg" alt="">
-                  <!-- <a href="assets/temp/photos/img10.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button"> -->
-                  </a>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-          <!-- END TABS -->
-        
-          <!-- TESTIMONIALS -->
-          <div class="col-md-5 testimonials-v1">
-            <div id="myCarousel" class="carousel slide">
-              <!-- Carousel items -->
-              <div class="carousel-inner">
-
-                <div class="item">
-                  <blockquote><p>Спасибо <a style="color:#64aed9!important ;" href="/">postscanner.ru</a>! Благодаря сайту узнал про акцию одного из
-операторов на посылки по России, в итоге стоимость доставки подарка
-другу оказалась почти в два раза дешевле, чем планировал. Теперь буду
-следить за вашими новостями!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img2-small.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Михаил</span>
-                      <span class="testimonials-post">Москва</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="item">
-                  <blockquote><p>Нашла много выгодных предложений, поэтому доставка груза по работе
-стала более экономной. Что приятно, тут же можно не только рассчитать
-доставку, но и отследить посылку. При этом пользоваться сайтом удобно
-и все операции происходят быстро и точно. Словом, рекомендую!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img5-small.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Светлана</span>
-                      <span class="testimonials-post">Казань</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="item">
-                  <blockquote><p>Впервые появилась необходимость отправить документы, решил изучить
-предложения и рассчитать доставку почтой. Ваш сайт стал настоящей
-находкой, я быстро и совершенно бесплатно выяснил нужную мне
-информацию и нашел выгодное предложение по отправке почты в своем
-городе. Спасибо за добротный и удобный сервис!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img9-large.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Евгений Анатольевич</span>
-                      <span class="testimonials-post">Самара</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="item">
-                  <blockquote><p>Оказывается, почтовые отправления может доставить не только «Почта
-России», есть много компаний, которые предлагают лучшие условия и при
-этом низкие цены. Стоимость посылки с помощью менее раскрученного
-оператора обошлась мне почти на 700 рублей дешевле, чем обычно.
-Благодарю <a style="color:#64aed9!important ;" href="/">postscanner.ru</a> за информацию!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img7-large.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Марина</span>
-                      <span class="testimonials-post"> Санкт-Петербург</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="item">
-                  <blockquote><p>Отличный сервис! Теперь можно отправить груз или документы по выгодной
-цене, а еще рассчитать стоимость доставки и выяснить, сколько стоит
-посылка у разных компаний на одном сайте. Очень удобный ресурс,
-помогает экономить время и деньги.</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img3-small.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Елена</span>
-                      <span class="testimonials-post">Краснодарский край</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="item">
-                  <blockquote><p>Сильно переживал, что посылка в Москву не прибудет к определенному
-сроку. Выяснил, что можно отследить посылку и за несколько секунд
-узнал на сайте, где сейчас находится отправление. Спасибо за помощь!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img8-large.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Петр</span>
-                      <span class="testimonials-post">Ростов-на-Дону</span>
-                    </div>
-                  </div>
-                </div>
-                
-
-                
-                
-                
-                
-                <div class="item">
-                  <blockquote><p>Отличная идея. Смог найти намного более интересные опции по доставке чем обычно. А главное просто, быстро и бесплатно. Теперь получится существенно сэкономить на доставке!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img4-small.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Александр Кочетков</span>
-                      <span class="testimonials-post">Москва</span>
-                    </div>
-                  </div>
-                </div>
-				
-                <div class="active item">
-                  <blockquote><p>Спасибо postscanner что помог мне сэкономить 3000р. Я отправил посылку родителям не за 4000 как привык а всего за 1000 рублей, и без потери в скорости и сервисе. Postscanner супер сервис! Очень помог!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img6-large.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Дмитрий Парамонов</span>
-                      <span class="testimonials-post">Оренбург</span>
-                    </div>
-                  </div>
-                </div>
-				
-                <div class="item">
-                  <blockquote><p>Спасибо Postscanner за сэкономленные деньги. Отправила документы в 3 раза дешевле чем обычно. Очень актуальный сервис!</p></blockquote>
-                  <div class="carousel-info">
-                    <img class="pull-left" src="./assets/frontend/pages/img/people/img1-small.jpg" alt="">
-                    <div class="pull-left">
-                      <span class="testimonials-name">Ирина Зарецкая</span>
-                      <span class="testimonials-post">Москва</span>
-                    </div>
-                  </div>
-                </div>
-								
-              </div>
-
-              <!-- Carousel nav -->
-              <a class="left-btn" href="#myCarousel" data-slide="prev"></a>
-              <a class="right-btn" href="#myCarousel" data-slide="next"></a>
-            </div>
-          </div>
-          <!-- END TESTIMONIALS -->
-        </div>                
-        <!-- END TABS AND TESTIMONIALS -->
-
-        <!-- BEGIN STEPS -->
-        <div class="row margin-bottom-40 front-steps-wrapper front-steps-count-3">
-          <div class="col-md-4 col-sm-4 front-step-col">
-            <div class="front-step front-step1">
-              <h2>Запрос</h2>
-              <p>Вы вносите основные параметры посылки: место отправления, место назначения, габаритные размеры и вес посылки, а так же страховую стоимость.</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 front-step-col">
-            <div class="front-step front-step2">
-              <h2>Обработка</h2>
-              <p>Postscanner собирает предложения от более чем 40 служб экспресс-доставки.</p>
-			  <br />
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 front-step-col">
-            <div class="front-step front-step3">
-              <h2>Результат</h2>
-              <p>Вы получаете лучшие предложения по доставке вашей посылки в форме удобной таблицы, с указанием стоимости, сроков и описанием условий доставки.</p>
-            </div>
-          </div>
-        </div>
-        <!-- END STEPS -->
-
-        <!-- BEGIN CLIENTS -->
-        <div class="row margin-bottom-40 our-clients">
-          <div class="col-md-3">
-            <h2><a href="#">Компании</a></h2>
-            <p>Мы анализируем сайты и базы данных более чем 40 транспортных компаний:</p>
-          </div>
-          <div class="col-md-9">
-            <div class="owl-carousel owl-carousel6-brands">
-              <!-- <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_1_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_1.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_2_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_2.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_3_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_3.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_4_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_4.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_5_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_5.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_6_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_6.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_7_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_7.png" class="color-img img-responsive" alt="">
-                </a>
-              </div>
-              <div class="client-item">
-                <a href="#">
-                  <img src="./assets/frontend/pages/img/clients/client_8_gray.png" class="img-responsive" alt="">
-                  <img src="./assets/frontend/pages/img/clients/client_8.png" class="color-img img-responsive" alt="">
-                </a>
-              </div> -->
-              <?php require('generate_footer.php') ?>
-            </div>
-          </div>          
-        </div>
-        <!-- END CLIENTS -->
-      </div>
-    </div>
-
-    
-
+<!-- FOOTER STARTS HERE -->    
     <?php require('footer.php') ?>
-
-    <!-- Load javascripts at bottom, this will reduce page load time -->
-    <!-- BEGIN CORE PLUGINS (REQUIRED FOR ALL PAGES) -->
-    <!--[if lt IE 9]>
-    <script src="./assets/global/plugins/respond.min.js"></script>
-    <![endif]--> 
-    <script src="./assets/global/plugins/jquery-1.11.0.min.js" type="text/javascript"></script>
-    <script src="./assets/global/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
-    <script src="./assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>      
-    <script src="./assets/frontend/layout/scripts/back-to-top.js" type="text/javascript"></script>
-    <!-- END CORE PLUGINS -->
-
-    <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
-    <script src="./assets/global/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script><!-- pop up -->
-    <script src="./assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script><!-- slider for products -->
-
+<!-- FOOTER ENDS HERE -->
     
-
-
-
-
+<!-- Load javascripts at bottom, this will reduce page load time -->
+<!-- BEGIN CORE PLUGINS (REQUIRED FOR ALL PAGES) -->
+<!--[if lt IE 9]>
+<script src="./assets/global/plugins/respond.min.js"></script>
+<![endif]--> 
+<script src="./assets/global/plugins/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="./assets/global/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="./assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>      
+<script src="./assets/frontend/layout/scripts/back-to-top.js" type="text/javascript"></script>
 <!-- END CORE PLUGINS -->
+
+<!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
+<script src="./assets/global/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script><!-- pop up -->
+<script src="./assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script><!-- slider for products -->
+
 <!-- BEGIN PAGE LEVEL PLUGINS -->
 <script type="text/javascript" src="./assets/global/plugins/datatables/media/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" src="./assets/global/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js"></script>
@@ -747,23 +442,19 @@
 <script type="text/javascript" src="./assets/global/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js"></script>
 <script type="text/javascript" src="./assets/global/plugins/bootstrap-select/bootstrap-select.min.js"></script>
 <!-- END PAGE LEVEL PLUGINS -->
+
 <!-- BEGIN PAGE LEVEL SCRIPTS -->
 <script src="./assets/global/scripts/metronic.js" type="text/javascript"></script>
 <script src="./assets/admin/layout2/scripts/layout.js" type="text/javascript"></script>
 <script src="./assets/admin/layout2/scripts/demo.js" type="text/javascript"></script>
-<script src="./assets/admin/pages/scripts/table-advanced.js"></script>
-
-
-<!-- BEGIN PAGE LEVEL SCRIPTS -->
+<script src="./assets/admin/pages/scripts/table-advanced.js"></script>    
 <script src="../../assets/global/plugins/jquery-notific8/jquery.notific8.js"></script>
 <!-- END PAGE LEVEL SCRIPTS -->
+    
 <script src="../../assets/admin/pages/scripts/ui-notific8.js"></script>
 <script src="../../assets/global/scripts/metronic.js" type="text/javascript"></script>
 <script src="../../assets/admin/layout2/scripts/layout.js" type="text/javascript"></script>
 <script src="../../assets/admin/layout2/scripts/demo.js" type="text/javascript"></script>
-
-
-
 
 <script src="./assets/frontend/layout/scripts/layout.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -778,7 +469,7 @@
 			$('.white_link').popover();
             if($.browser.mozilla)
             {
-              $('#sendRequest').css({'margin-left':'60px'});
+              $('#sendRequest').css({'margin-left':'0px'});
             }
             if ($(document).width()<550)
             {
@@ -793,7 +484,7 @@
                 $('.filter div.select2-container').width('100%');
                 $('.filter div.select2-container a').width('90%');
                 $('#sendRequest').css({'margin-left':'0px'});
-                $('#sendRequest').css({'margin-top':'15px'});
+                $('#sendRequest').css({'margin-top':'0px'});
             }
             // $('.main_filter_form').show(100);
             var select2Inited = false;
@@ -855,9 +546,6 @@
         <script src="select2/select2.js"></script>
     <script src="select2/select2_locale_ru.js"></script>
 
-	
-
-
     <script>
     $(function(){
         $('.send_zak_form').click(function (){
@@ -885,9 +573,7 @@
                 return false;
                 
             }
-            
-            
-            
+                
             zakdata=zakdata+dataShip+'&comment='+$('#inputComment').val();
             $('.preloader_zak').removeClass('hidden');
             $.ajax({
@@ -914,19 +600,30 @@
         {
             $('#smallModal').modal('hide');
         }
-    })
-    
+    })  
     </script>
-<style>
-div.modal
-{
-    top:4%;
-}
-div.modal-dialog
-{
-    
-}
-</style>
+    <script>
+    // When the DOM is ready, run this function
+    $(document).ready(function() {
+      //Set the carousel options
+      $('#quote-carousel').carousel({
+        pause: true,
+        interval: 7000,
+      });
+    });
+    </script>
+
+    <style>
+        div.modal
+        {
+            top:4%;
+        }
+        div.modal-dialog
+        {
+
+        }
+    </style>
+
 <div id="smallModal" class="modal modal-wide fade">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -999,18 +696,16 @@ div.modal-dialog
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->	
 
-<!-- Yandex.Metrika informer -->
-<a href="https://metrika.yandex.ru/stat/?id=27119789&amp;from=informer"
-target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/27119789/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
-style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:27119789,lang:'ru'});return false}catch(e){}"/></a>
-<!-- /Yandex.Metrika informer -->
+
 	
 <style>
 .popover {
     
     font-size: 11px !important;
     }
-</style>	
+</style>
+    
+    
 </body>
 <!-- END BODY -->
 </html>

@@ -1121,10 +1121,27 @@ Customized Bootstrap Buttons
   text-shadow: none;
 }
 
+/* BUTTONS */
+
+.btn-default {
+    background-color: #314B91;
+    color: #fff; 
+    border-width: 1px;
+}
+
+.btn-default:hover {
+    background-color: #fff;
+    color: #314B91; 
+    border-width: 1px;
+    border-color: #314B91;
+}
+
+/*
 .btn-default {
   border-width: 1px;
   padding: 6px 13px;
 }
+*/
 
 .btn-block {
   display: block;
@@ -1134,6 +1151,7 @@ Customized Bootstrap Buttons
 }
 
 /* Bootstrap buttons */
+/*
 .btn-default {
   color: #333333;
   background-color: white;
@@ -1144,6 +1162,7 @@ Customized Bootstrap Buttons
   background-color: #ebebeb;
   border-color: #b3b3b3;
 }
+*/
 .open .btn-default.dropdown-toggle {
   color: #333333;
   background-color: #ebebeb;

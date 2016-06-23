@@ -1,110 +1,45 @@
-    <!-- BEGIN PRE-FOOTER -->
-    <div class="pre-footer">
-      <div class="container">
+<img src="img/design_new/post_line.jpg" class="img-responsive" width="100%"  height="7px" />
+<!-- FOOTER BEGINS -->
+<div class="container-fluid">
+    <!-- COPYRIGHT BEGINS -->
+    <div class="footer">
         <div class="row">
-          <!-- BEGIN BOTTOM ABOUT BLOCK -->
-          <div class="col-md-4 col-sm-4 pre-footer-col">
-            <h2>Рекомендации Postscanner</h2>
-
-            <ul class="list-unstyled">
-                <li><a href="/uslugi_dostavki/">Услуги доставки</a></li>
-                <li><a href="/soveti_po_otpravke/">Советы по отправке</a></li>
-                <li><a href="/zapreshenie_gruzi/">Запрещенные грузы</a></li>
-                <li><a href="/express_kompanii/">Службы доставки</a></li>
-                <li><a href="/garantii/">Гарантия сайта www.postscanner.ru</a></li>
-              </ul>                    
-          </div>
-          <!-- END BOTTOM ABOUT BLOCK -->
-          <style>
-            .skrit
-            {
-                display:none;
-            }
-          </style>
-          <!-- BEGIN BOTTOM CONTACTS -->
-          <div class="col-md-4 col-sm-4 pre-footer-col">
-            <h2>Контакты</h2>
-			  <a href="about-6.php" class="skrit">О компании Postscanner</a>
-            <address class="margin-bottom-40">
-              Postscanner
-              <br>
-			  Москва, Россия<br>
-              Email: <a href="mailto:info@postscanner.ru">info@postscanner.ru</a><br>
-            </address>
-          </div>
-          <!-- END BOTTOM CONTACTS -->
-
-          <!-- BEGIN TWITTER BLOCK --> 
-          <div class="col-md-4 col-sm-4 pre-footer-col">
-              <h2>Последние новости</h2>
-              <p>Подпишись на нашу рассылку и всегда оставайся в курсе последних актуальных акций и спецпредложений на перевозки!</p>
-            <div class="pre-footer-subscribe-box pre-footer-subscribe-box-vertical">
-              <form action="letter.php" method="post">
-                <div class="input-group">
-                  <input type="hidden" name="action" value="subscribe">
-                  <input type="text" name="email" placeholder="Email" class="form-control">
-                  <span class="input-group-btn">
-                    <button class="btn btn-primary" type="submit">Подписаться</button>
-                  </span>
-                </div>
-              </form>
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 block-text-line-height-big">
+                <h4>О сервисе</h4>
+                <a href="#">Что такое Postscanner?</a><br />
+                <a href="#">Правила использования</a><br />
+                <a href="#">Наши курьеры</a><br />
+                <a href="#">Посмотреть презентацию</a><br />
+                <a href="#anchor_video">Посмотреть видео</a><br />
+                <a href="#anchor_feedback">Почитать отзывы клиентов</a><br />
+                <a href="#">Наши гарантии</a><br />
             </div>
-          </div>
-          <!-- END TWITTER BLOCK -->
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 block-text-line-height-big">
+                <h4>Юридические аспекты</h4>
+                <a href="#">Публичная оферта</a><br />
+                <a href="#">Запрещенные грузы</a><br />
+                <a href="#">Юридическим лицам</a><br />
+                <a href="#">Политика конфиденциальности</a>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 block-text-line-height-big">
+                <h4>Полезная информация</h4>
+                <a href="#">Услуги доставки</a><br />
+                <a href="#">Советы по отправке</a><br />
+                <a href="#">Службы доставки</a><br />
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 block-text-line-height-big">
+                <h4>Нашим клиентам</h4>
+                <a href="#">Войти в личный кабинет</a><br />
+                <a href="#">Зарегистрироваться</a><br />
+                <a href="#">Рассчитать стоимость отправки</a><br />
+                <a href="#">Отследить груз</a><br />
+                <a href="#anchor_question">Написать о работе сервиса</a><br />
+            </div>
         </div>
-      </div>
-    </div>
-    <!-- END PRE-FOOTER -->
-    <!-- BEGIN FOOTER -->
-    <div class="footer" >
-      <div class="container">
-        <div class="row">
-          <!-- BEGIN COPYRIGHT -->
-          <div class="col-md-6 col-sm-6 padding-top-10">
-            2014-2015 © Postscannner . <a href="#">Политика конфиденциальности</a> | <a href="#">Правила использования</a>
-          </div>
-          <!-- END COPYRIGHT -->
-          <!-- BEGIN PAYMENTS -->
-          <div class="col-md-6 col-sm-6">
-            <ul class="social-footer list-unstyled list-inline pull-right hidden">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-              <li><a href="#"><i class="fa fa-vk"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-skype"></i></a></li>
-            </ul>  
-          </div>
-          <!-- END PAYMENTS -->
+        <div class="row text-center">
+            2014-2016 © Postscannner
         </div>
-      </div>
     </div>
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter27119789 = new Ya.Metrika({id:27119789,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/27119789" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->	
+    <!-- COPYRIGHT ENDS -->
+</div>
+<!-- FOOTER ENDS -->
